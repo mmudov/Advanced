@@ -32,6 +32,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Qmxhem9yXEJpbmRpbmdzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/dev/Advanced/Blazor/DepartmentList.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yXERlcGFydG1lbnRMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/dev/Advanced/Blazor/Events.razor]
 build_metadata.AdditionalFiles.TargetPath = Qmxhem9yXEV2ZW50cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -40,8 +44,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Qmxhem9yXFBlb3BsZUxpc3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/dev/Advanced/Blazor/SelectFilter.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yXFNlbGVjdEZpbHRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/dev/Advanced/Blazor/Split.razor]
 build_metadata.AdditionalFiles.TargetPath = Qmxhem9yXFNwbGl0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/Advanced/Blazor/TableTemplate.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yXFRhYmxlVGVtcGxhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/Advanced/Blazor/ThemeWrapper.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yXFRoZW1lV3JhcHBlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/dev/Advanced/_Imports.razor]

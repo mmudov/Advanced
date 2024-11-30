@@ -1,5 +1,17 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Advanced/connectionErrors.8re1c689o7.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\connectionErrors.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8re1c689o7"},{"Name":"integrity","Value":"sha256-DNs\u002BHEBSM32s608V7LcmVA/kObq\u002BBZE/12fvuUqBS2M="},{"Name":"label","Value":"_content/Advanced/connectionErrors.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"861"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022DNs\u002BHEBSM32s608V7LcmVA/kObq\u002BBZE/12fvuUqBS2M=\u0022"},{"Name":"Last-Modified","Value":"Sat, 30 Nov 2024 15:15:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Advanced/connectionErrors.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\connectionErrors.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DNs\u002BHEBSM32s608V7LcmVA/kObq\u002BBZE/12fvuUqBS2M="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"861"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022DNs\u002BHEBSM32s608V7LcmVA/kObq\u002BBZE/12fvuUqBS2M=\u0022"},{"Name":"Last-Modified","Value":"Sat, 30 Nov 2024 15:15:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Advanced/lib/bootstrap/css/bootstrap-grid.4qewknlhhe.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\css\bootstrap-grid.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

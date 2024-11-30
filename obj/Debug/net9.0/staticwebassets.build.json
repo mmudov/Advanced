@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3IipwKg8mDn5xW7Mi7fYpPr3gFY8tS/1E4A5AbtaHX8=",
+  "Hash": "oWpruK2NaF2J2+OXfO8PHet3j9Sz8bLG7KwvJIFw79E=",
   "Source": "Advanced",
   "BasePath": "_content/Advanced",
   "Mode": "Default",
@@ -752,6 +752,27 @@
       "OriginalItemSpec": "D:\\dev\\Advanced\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
+      "Identity": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\vlylcp08pj-8re1c689o7.gz",
+      "SourceId": "Advanced",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Advanced",
+      "RelativePath": "connectionErrors#[.{fingerprint=8re1c689o7}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\dev\\Advanced\\wwwroot\\connectionErrors.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "5axau8qxdj",
+      "Integrity": "A1sLjv/aoBL0/LhtHJKBcWPjbj0we5bhrRgysCbDru4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\dev\\Advanced\\wwwroot\\connectionErrors.css"
+    },
+    {
       "Identity": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\vof07kwvhc-rat98tutyt.gz",
       "SourceId": "Advanced",
       "SourceType": "Discovered",
@@ -939,6 +960,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\dev\\Advanced\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Identity": "D:\\dev\\Advanced\\wwwroot\\connectionErrors.css",
+      "SourceId": "Advanced",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\dev\\Advanced\\wwwroot\\",
+      "BasePath": "_content/Advanced",
+      "RelativePath": "connectionErrors#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8re1c689o7",
+      "Integrity": "DNs+HEBSM32s608V7LcmVA/kObq+BZE/12fvuUqBS2M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\connectionErrors.css"
     },
     {
       "Identity": "D:\\dev\\Advanced\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
@@ -3714,6 +3756,304 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "connectionErrors.8re1c689o7.css",
+      "AssetFile": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\vlylcp08pj-8re1c689o7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004048582996"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "246"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A1sLjv/aoBL0/LhtHJKBcWPjbj0we5bhrRgysCbDru4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Nov 2024 15:15:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"DNs+HEBSM32s608V7LcmVA/kObq+BZE/12fvuUqBS2M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8re1c689o7"
+        },
+        {
+          "Name": "label",
+          "Value": "connectionErrors.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DNs+HEBSM32s608V7LcmVA/kObq+BZE/12fvuUqBS2M="
+        }
+      ]
+    },
+    {
+      "Route": "connectionErrors.8re1c689o7.css",
+      "AssetFile": "D:\\dev\\Advanced\\wwwroot\\connectionErrors.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "861"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DNs+HEBSM32s608V7LcmVA/kObq+BZE/12fvuUqBS2M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Nov 2024 15:15:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8re1c689o7"
+        },
+        {
+          "Name": "label",
+          "Value": "connectionErrors.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DNs+HEBSM32s608V7LcmVA/kObq+BZE/12fvuUqBS2M="
+        }
+      ]
+    },
+    {
+      "Route": "connectionErrors.8re1c689o7.css.gz",
+      "AssetFile": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\vlylcp08pj-8re1c689o7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "246"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A1sLjv/aoBL0/LhtHJKBcWPjbj0we5bhrRgysCbDru4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Nov 2024 15:15:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8re1c689o7"
+        },
+        {
+          "Name": "label",
+          "Value": "connectionErrors.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A1sLjv/aoBL0/LhtHJKBcWPjbj0we5bhrRgysCbDru4="
+        }
+      ]
+    },
+    {
+      "Route": "connectionErrors.css",
+      "AssetFile": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\vlylcp08pj-8re1c689o7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004048582996"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "246"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A1sLjv/aoBL0/LhtHJKBcWPjbj0we5bhrRgysCbDru4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Nov 2024 15:15:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"DNs+HEBSM32s608V7LcmVA/kObq+BZE/12fvuUqBS2M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DNs+HEBSM32s608V7LcmVA/kObq+BZE/12fvuUqBS2M="
+        }
+      ]
+    },
+    {
+      "Route": "connectionErrors.css",
+      "AssetFile": "D:\\dev\\Advanced\\wwwroot\\connectionErrors.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "861"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DNs+HEBSM32s608V7LcmVA/kObq+BZE/12fvuUqBS2M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Nov 2024 15:15:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DNs+HEBSM32s608V7LcmVA/kObq+BZE/12fvuUqBS2M="
+        }
+      ]
+    },
+    {
+      "Route": "connectionErrors.css.gz",
+      "AssetFile": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\vlylcp08pj-8re1c689o7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "246"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A1sLjv/aoBL0/LhtHJKBcWPjbj0we5bhrRgysCbDru4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Nov 2024 15:15:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A1sLjv/aoBL0/LhtHJKBcWPjbj0we5bhrRgysCbDru4="
+        }
+      ]
+    },
     {
       "Route": "lib/bootstrap/css/bootstrap.2w652sptew.css",
       "AssetFile": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\ok1lx99mnn-2w652sptew.gz",

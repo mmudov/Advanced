@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "D:\\dev\\Advanced\\wwwroot\\connectionErrors.css",
+      "PackagePath": "staticwebassets\\connectionErrors.css"
+    },
+    {
       "Id": "D:\\dev\\Advanced\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css"
     },
