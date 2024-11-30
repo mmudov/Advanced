@@ -28,6 +28,30 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
+[D:/dev/Advanced/Blazor/Bindings.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yXEJpbmRpbmdzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/Advanced/Blazor/Events.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yXEV2ZW50cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/Advanced/Blazor/PeopleList.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yXFBlb3BsZUxpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/Advanced/Blazor/Split.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yXFNwbGl0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/Advanced/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/Advanced/Pages/Blazor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxhem9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/dev/Advanced/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
