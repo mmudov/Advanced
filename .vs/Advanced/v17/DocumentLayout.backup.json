@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\dev\\Advanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|d:\\dev\\advanced\\blazor\\selectfilter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|solutionrelative:blazor\\selectfilter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|d:\\dev\\advanced\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|d:\\dev\\advanced\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|solutionrelative:pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|d:\\dev\\advanced\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|solutionrelative:pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SelectFilter.razor",
-              "DocumentMoniker": "D:\\dev\\Advanced\\Blazor\\SelectFilter.razor",
-              "RelativeDocumentMoniker": "Blazor\\SelectFilter.razor",
-              "ToolTip": "D:\\dev\\Advanced\\Blazor\\SelectFilter.razor",
-              "RelativeToolTip": "Blazor\\SelectFilter.razor",
-              "ViewState": "AgIAABQAAAAAAAAAAAAkwB0AAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-30T15:36:08.566Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
@@ -40,6 +35,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\dev\\Advanced\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\dev\\Advanced\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T12:44:37.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\dev\\Advanced\\Pages\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_Layout.cshtml",
+              "ToolTip": "D:\\dev\\Advanced\\Pages\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T12:39:22.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "D:\\dev\\Advanced\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_Host.cshtml",
+              "ToolTip": "D:\\dev\\Advanced\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "Pages\\_Host.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T12:41:48.499Z",
+              "EditorCaption": ""
             }
           ]
         },

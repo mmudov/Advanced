@@ -40,8 +40,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Qmxhem9yXEV2ZW50cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/dev/Advanced/Blazor/MultiNavLink.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yXE11bHRpTmF2TGluay5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/Advanced/Blazor/NavLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yXE5hdkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/dev/Advanced/Blazor/PeopleList.razor]
 build_metadata.AdditionalFiles.TargetPath = Qmxhem9yXFBlb3BsZUxpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/Advanced/Blazor/PersonDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yXFBlcnNvbkRpc3BsYXkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/Advanced/Blazor/Routed.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yXFJvdXRlZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/dev/Advanced/Blazor/SelectFilter.razor]
@@ -70,6 +86,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/dev/Advanced/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/Advanced/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/dev/Advanced/Pages/_Layout.cshtml]

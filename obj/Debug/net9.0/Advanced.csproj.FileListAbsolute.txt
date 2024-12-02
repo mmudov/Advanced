@@ -201,3 +201,4 @@ D:\dev\Advanced\obj\Debug\net9.0\compressed\vvodqlbzk4-lxnhmosdkt.gz
 D:\dev\Advanced\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 D:\dev\Advanced\obj\Debug\net9.0\Advanced.sourcelink.json
 D:\dev\Advanced\obj\Debug\net9.0\compressed\vlylcp08pj-8re1c689o7.gz
+D:\dev\Advanced\obj\Debug\net9.0\compressed\8ea9rh1dbl-ospdjqsnxy.gz

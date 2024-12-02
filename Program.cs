@@ -13,6 +13,8 @@ builder.Services.AddDbContext<DataContext>(opts => {
     opts.EnableSensitiveDataLogging(true);
 });
 
+builder.Services.AddSingleton<Advanced.Services.ToggleService>();
+
 var app = builder.Build();
 
 //app.MapGet("/", () => "Hello World!");
@@ -22,6 +24,7 @@ app.MapControllers();
 app.MapControllerRoute("controllers","controllers/{controller=Home}/{action=Index}/{id?}");
 app.MapRazorPages();
 app.MapBlazorHub();
+app.MapFallbackToPage("/_Host");
 
 var context = app.Services.CreateScope().ServiceProvider.GetRequiredService<DataContext>();
 

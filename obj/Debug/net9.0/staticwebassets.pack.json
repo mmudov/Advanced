@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\connectionErrors.css"
     },
     {
+      "Id": "D:\\dev\\Advanced\\wwwroot\\interop.js",
+      "PackagePath": "staticwebassets\\interop.js"
+    },
+    {
       "Id": "D:\\dev\\Advanced\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css"
     },

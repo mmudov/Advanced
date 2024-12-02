@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oWpruK2NaF2J2+OXfO8PHet3j9Sz8bLG7KwvJIFw79E=",
+  "Hash": "bo0PzUIU+kPoCN1wbyECgKkW19U2H1nFRq41HAoEqHU=",
   "Source": "Advanced",
   "BasePath": "_content/Advanced",
   "Mode": "Default",
@@ -225,6 +225,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\dev\\Advanced\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Identity": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\8ea9rh1dbl-ospdjqsnxy.gz",
+      "SourceId": "Advanced",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Advanced",
+      "RelativePath": "interop#[.{fingerprint=ospdjqsnxy}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\dev\\Advanced\\wwwroot\\interop.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "lprviv5ekn",
+      "Integrity": "CZwgBCh5Q4R7RRbPIKnMM37Ojr1Ca0LvAbnA4CEz+as=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\dev\\Advanced\\wwwroot\\interop.js"
     },
     {
       "Identity": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\caq0jy10i2-ib7told66d.gz",
@@ -981,6 +1002,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\connectionErrors.css"
+    },
+    {
+      "Identity": "D:\\dev\\Advanced\\wwwroot\\interop.js",
+      "SourceId": "Advanced",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\dev\\Advanced\\wwwroot\\",
+      "BasePath": "_content/Advanced",
+      "RelativePath": "interop#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ospdjqsnxy",
+      "Integrity": "KCEkrZhttJyyT2QhYpjpG/uZrhF7UswY8sdrhSimTwU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\interop.js"
     },
     {
       "Identity": "D:\\dev\\Advanced\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
@@ -4051,6 +4093,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-A1sLjv/aoBL0/LhtHJKBcWPjbj0we5bhrRgysCbDru4="
+        }
+      ]
+    },
+    {
+      "Route": "interop.js",
+      "AssetFile": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\8ea9rh1dbl-ospdjqsnxy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002427184466"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "411"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CZwgBCh5Q4R7RRbPIKnMM37Ojr1Ca0LvAbnA4CEz+as=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 12:50:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KCEkrZhttJyyT2QhYpjpG/uZrhF7UswY8sdrhSimTwU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KCEkrZhttJyyT2QhYpjpG/uZrhF7UswY8sdrhSimTwU="
+        }
+      ]
+    },
+    {
+      "Route": "interop.js",
+      "AssetFile": "D:\\dev\\Advanced\\wwwroot\\interop.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "876"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KCEkrZhttJyyT2QhYpjpG/uZrhF7UswY8sdrhSimTwU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 12:50:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KCEkrZhttJyyT2QhYpjpG/uZrhF7UswY8sdrhSimTwU="
+        }
+      ]
+    },
+    {
+      "Route": "interop.js.gz",
+      "AssetFile": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\8ea9rh1dbl-ospdjqsnxy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "411"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CZwgBCh5Q4R7RRbPIKnMM37Ojr1Ca0LvAbnA4CEz+as=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 12:50:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CZwgBCh5Q4R7RRbPIKnMM37Ojr1Ca0LvAbnA4CEz+as="
+        }
+      ]
+    },
+    {
+      "Route": "interop.ospdjqsnxy.js",
+      "AssetFile": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\8ea9rh1dbl-ospdjqsnxy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002427184466"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "411"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CZwgBCh5Q4R7RRbPIKnMM37Ojr1Ca0LvAbnA4CEz+as=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 12:50:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KCEkrZhttJyyT2QhYpjpG/uZrhF7UswY8sdrhSimTwU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ospdjqsnxy"
+        },
+        {
+          "Name": "label",
+          "Value": "interop.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KCEkrZhttJyyT2QhYpjpG/uZrhF7UswY8sdrhSimTwU="
+        }
+      ]
+    },
+    {
+      "Route": "interop.ospdjqsnxy.js",
+      "AssetFile": "D:\\dev\\Advanced\\wwwroot\\interop.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "876"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KCEkrZhttJyyT2QhYpjpG/uZrhF7UswY8sdrhSimTwU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 12:50:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ospdjqsnxy"
+        },
+        {
+          "Name": "label",
+          "Value": "interop.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KCEkrZhttJyyT2QhYpjpG/uZrhF7UswY8sdrhSimTwU="
+        }
+      ]
+    },
+    {
+      "Route": "interop.ospdjqsnxy.js.gz",
+      "AssetFile": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\8ea9rh1dbl-ospdjqsnxy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "411"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CZwgBCh5Q4R7RRbPIKnMM37Ojr1Ca0LvAbnA4CEz+as=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 12:50:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ospdjqsnxy"
+        },
+        {
+          "Name": "label",
+          "Value": "interop.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CZwgBCh5Q4R7RRbPIKnMM37Ojr1Ca0LvAbnA4CEz+as="
         }
       ]
     },

@@ -8,6 +8,7 @@ D:\dev\Advanced\wwwroot\lib\bootstrap\css\bootstrap.rtl.min.css
 D:\dev\Advanced\wwwroot\lib\bootstrap\css\bootstrap-utilities.min.css
 D:\dev\Advanced\wwwroot\lib\bootstrap\css\bootstrap-reboot.min.css
 D:\dev\Advanced\wwwroot\lib\bootstrap\css\bootstrap-grid.rtl.css.map
+D:\dev\Advanced\wwwroot\interop.js
 D:\dev\Advanced\wwwroot\lib\bootstrap\js\bootstrap.js
 D:\dev\Advanced\wwwroot\lib\bootstrap\css\bootstrap-reboot.rtl.css.map
 D:\dev\Advanced\wwwroot\lib\bootstrap\css\bootstrap-utilities.min.css.map
@@ -44,6 +45,7 @@ D:\dev\Advanced\wwwroot\lib\bootstrap\css\bootstrap.min.css.map
 D:\dev\Advanced\wwwroot\lib\bootstrap\js\bootstrap.bundle.min.js.map
 D:\dev\Advanced\wwwroot\lib\bootstrap\css\bootstrap.rtl.css.map
 wwwroot\connectionErrors.css
+wwwroot\interop.js
 wwwroot\lib\bootstrap\css\bootstrap.css
 wwwroot\lib\bootstrap\css\bootstrap.css.map
 wwwroot\lib\bootstrap\css\bootstrap.min.css
