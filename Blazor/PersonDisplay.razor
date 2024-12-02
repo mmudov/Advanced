@@ -13,24 +13,39 @@ else
 	<table class="table table-striped table-bordered">
 		<tbody>
 			<tr><th>Id</th><td>@Person.PersonId</td></tr>
-			<tr @ref="RowReference">
+			
+			<!--Components using JavaScript don't work-->
+			<!--<tr @ref="RowReference">-->
+			<!--Components using JavaScript don't work-->
+
 				<tr><th>Surname</th><td>@Person.Surname</td></tr>
-			</tr>
+			
+			<!--Components using JavaScript don't work-->
+			<!--</tr>-->
+			<!--Components using JavaScript don't work-->
+
 			<tr><th>Firstname</th><td>@Person.Firstname</td></tr>
 		</tbody>
 	</table>
 }
 <!--<button class="btn btn-outline-primary" @onclick="@(() => HandleClick(false))">Previous</button>
 <button class="btn btn-outline-primary"@onclick="@(() => HandleClick(true))">Next</button>-->
-<button class="btn btn-outline-primary" @onclick="@HandleClick">Invoke JS Function</button>
+
+<!--Components using JavaScript don't work-->
+<!--<button class="btn btn-outline-primary" @onclick="@HandleClick">Invoke JS Function</button>-->
+<!--Components using JavaScript don't work-->
 
 @code {
 	[Inject]
 	public DataContext? Context { get; set; }
 	[Inject]
 	public NavigationManager? NavManager { get; set; }
-	[Inject]
-	public IJSRuntime? JSRuntime { get; set; }
+	
+	//Components using JavaScript don't work
+	/*[Inject]
+	public IJSRuntime? JSRuntime { get; set; }*/
+	//Components using JavaScript don't work
+
 	[Parameter]
 	public long Id { get; set; }
 	public Person? Person { get; set; }
@@ -54,11 +69,13 @@ else
 	{
 		await JSRuntime!.InvokeVoidAsync("addTableRows", 2);
 	}*/
-
-	public ElementReference RowReference { get; set; }
+	
+	//Components using JavaScript don't work
+	/*public ElementReference RowReference { get; set; }
 	
 	public async Task HandleClick()
 	{
 		await JSRuntime!.InvokeVoidAsync("addTableRows", 2, RowReference);
-	}
+	}*/
+	//Components using JavaScript don't work
 }

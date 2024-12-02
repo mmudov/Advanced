@@ -1,5 +1,8 @@
 ﻿using Advanced.Blazor;
-using Microsoft.JSInterop;
+
+//Components using JavaScript don't work
+//using Microsoft.JSInterop;
+//Components using JavaScript don't work
 
 namespace Advanced.Services
 {
@@ -13,7 +16,10 @@ namespace Advanced.Services
             components.AddRange(comps);
         }
 
-        [JSInvokable]
+        //Components using JavaScript don't work
+        //[JSInvokable]
+        //Components using JavaScript don't work
+
         public bool ToggleComponents()
         {
             enabled = !enabled;
