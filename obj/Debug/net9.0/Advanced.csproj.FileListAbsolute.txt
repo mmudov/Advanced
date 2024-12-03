@@ -198,7 +198,8 @@ D:\dev\Advanced\obj\Debug\net9.0\compressed\caq0jy10i2-ib7told66d.gz
 D:\dev\Advanced\obj\Debug\net9.0\compressed\g4rue6s9ch-s9kdte20bp.gz
 D:\dev\Advanced\obj\Debug\net9.0\compressed\0ufqm1wann-xtzwxpr1me.gz
 D:\dev\Advanced\obj\Debug\net9.0\compressed\vvodqlbzk4-lxnhmosdkt.gz
-D:\dev\Advanced\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 D:\dev\Advanced\obj\Debug\net9.0\Advanced.sourcelink.json
 D:\dev\Advanced\obj\Debug\net9.0\compressed\vlylcp08pj-8re1c689o7.gz
 D:\dev\Advanced\obj\Debug\net9.0\compressed\8ea9rh1dbl-ospdjqsnxy.gz
+D:\dev\Advanced\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\dev\Advanced\obj\Debug\net9.0\compressed\v0e2ukvlu9-iwqp7u1a9p.gz

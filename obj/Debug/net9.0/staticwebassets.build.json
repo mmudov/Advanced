@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5q/JyWoTroYeFVcxNaKCqN/FBTCBXErs5497cebGlL8=",
+  "Hash": "BTr1StXZtXcfaSlJMim+wql57QRSp+84U678ZKttvPA=",
   "Source": "Advanced",
   "BasePath": "_content/Advanced",
   "Mode": "Default",
@@ -773,6 +773,27 @@
       "OriginalItemSpec": "D:\\dev\\Advanced\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
+      "Identity": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\v0e2ukvlu9-iwqp7u1a9p.gz",
+      "SourceId": "Advanced",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Advanced",
+      "RelativePath": "blazorValidation#[.{fingerprint=iwqp7u1a9p}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\dev\\Advanced\\wwwroot\\blazorValidation.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "l36318yijj",
+      "Integrity": "X13v9dAwkryzHf7OOdEioiBoEPuqk+xJKgS4OkZVgtU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\dev\\Advanced\\wwwroot\\blazorValidation.css"
+    },
+    {
       "Identity": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\vlylcp08pj-8re1c689o7.gz",
       "SourceId": "Advanced",
       "SourceType": "Discovered",
@@ -981,6 +1002,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\dev\\Advanced\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Identity": "D:\\dev\\Advanced\\wwwroot\\blazorValidation.css",
+      "SourceId": "Advanced",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\dev\\Advanced\\wwwroot\\",
+      "BasePath": "_content/Advanced",
+      "RelativePath": "blazorValidation#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iwqp7u1a9p",
+      "Integrity": "coM/+5dUbS92QzL0VFdIxMHCYui1b/xTjUC8wpPiMRE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\blazorValidation.css"
     },
     {
       "Identity": "D:\\dev\\Advanced\\wwwroot\\connectionErrors.css",
@@ -3798,6 +3840,304 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "blazorValidation.css",
+      "AssetFile": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\v0e2ukvlu9-iwqp7u1a9p.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004629629630"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "215"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X13v9dAwkryzHf7OOdEioiBoEPuqk+xJKgS4OkZVgtU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 07:20:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"coM/+5dUbS92QzL0VFdIxMHCYui1b/xTjUC8wpPiMRE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-coM/+5dUbS92QzL0VFdIxMHCYui1b/xTjUC8wpPiMRE="
+        }
+      ]
+    },
+    {
+      "Route": "blazorValidation.css",
+      "AssetFile": "D:\\dev\\Advanced\\wwwroot\\blazorValidation.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "392"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"coM/+5dUbS92QzL0VFdIxMHCYui1b/xTjUC8wpPiMRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 07:20:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-coM/+5dUbS92QzL0VFdIxMHCYui1b/xTjUC8wpPiMRE="
+        }
+      ]
+    },
+    {
+      "Route": "blazorValidation.css.gz",
+      "AssetFile": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\v0e2ukvlu9-iwqp7u1a9p.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "215"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X13v9dAwkryzHf7OOdEioiBoEPuqk+xJKgS4OkZVgtU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 07:20:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X13v9dAwkryzHf7OOdEioiBoEPuqk+xJKgS4OkZVgtU="
+        }
+      ]
+    },
+    {
+      "Route": "blazorValidation.iwqp7u1a9p.css",
+      "AssetFile": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\v0e2ukvlu9-iwqp7u1a9p.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004629629630"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "215"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X13v9dAwkryzHf7OOdEioiBoEPuqk+xJKgS4OkZVgtU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 07:20:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"coM/+5dUbS92QzL0VFdIxMHCYui1b/xTjUC8wpPiMRE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iwqp7u1a9p"
+        },
+        {
+          "Name": "label",
+          "Value": "blazorValidation.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-coM/+5dUbS92QzL0VFdIxMHCYui1b/xTjUC8wpPiMRE="
+        }
+      ]
+    },
+    {
+      "Route": "blazorValidation.iwqp7u1a9p.css",
+      "AssetFile": "D:\\dev\\Advanced\\wwwroot\\blazorValidation.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "392"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"coM/+5dUbS92QzL0VFdIxMHCYui1b/xTjUC8wpPiMRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 07:20:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iwqp7u1a9p"
+        },
+        {
+          "Name": "label",
+          "Value": "blazorValidation.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-coM/+5dUbS92QzL0VFdIxMHCYui1b/xTjUC8wpPiMRE="
+        }
+      ]
+    },
+    {
+      "Route": "blazorValidation.iwqp7u1a9p.css.gz",
+      "AssetFile": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\v0e2ukvlu9-iwqp7u1a9p.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "215"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X13v9dAwkryzHf7OOdEioiBoEPuqk+xJKgS4OkZVgtU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 07:20:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iwqp7u1a9p"
+        },
+        {
+          "Name": "label",
+          "Value": "blazorValidation.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X13v9dAwkryzHf7OOdEioiBoEPuqk+xJKgS4OkZVgtU="
+        }
+      ]
+    },
     {
       "Route": "connectionErrors.8re1c689o7.css",
       "AssetFile": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\vlylcp08pj-8re1c689o7.gz",

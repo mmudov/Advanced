@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "D:\\dev\\Advanced\\wwwroot\\blazorValidation.css",
+      "PackagePath": "staticwebassets\\blazorValidation.css"
+    },
+    {
       "Id": "D:\\dev\\Advanced\\wwwroot\\connectionErrors.css",
       "PackagePath": "staticwebassets\\connectionErrors.css"
     },

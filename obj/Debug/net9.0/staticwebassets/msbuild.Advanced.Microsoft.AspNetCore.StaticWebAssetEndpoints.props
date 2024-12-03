@@ -1,5 +1,17 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Advanced/blazorValidation.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\blazorValidation.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-coM/\u002B5dUbS92QzL0VFdIxMHCYui1b/xTjUC8wpPiMRE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"392"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022coM/\u002B5dUbS92QzL0VFdIxMHCYui1b/xTjUC8wpPiMRE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 07:20:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Advanced/blazorValidation.iwqp7u1a9p.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\blazorValidation.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"iwqp7u1a9p"},{"Name":"integrity","Value":"sha256-coM/\u002B5dUbS92QzL0VFdIxMHCYui1b/xTjUC8wpPiMRE="},{"Name":"label","Value":"_content/Advanced/blazorValidation.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"392"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022coM/\u002B5dUbS92QzL0VFdIxMHCYui1b/xTjUC8wpPiMRE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 07:20:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Advanced/connectionErrors.8re1c689o7.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\connectionErrors.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

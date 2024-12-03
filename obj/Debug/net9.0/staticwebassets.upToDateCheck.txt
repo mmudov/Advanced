@@ -34,6 +34,7 @@ D:\dev\Advanced\wwwroot\lib\bootstrap\css\bootstrap.rtl.css
 D:\dev\Advanced\wwwroot\lib\bootstrap\css\bootstrap-utilities.rtl.css
 D:\dev\Advanced\wwwroot\lib\bootstrap\css\bootstrap-reboot.rtl.min.css
 D:\dev\Advanced\wwwroot\lib\bootstrap\css\bootstrap-grid.rtl.min.css.map
+D:\dev\Advanced\wwwroot\blazorValidation.css
 D:\dev\Advanced\wwwroot\connectionErrors.css
 D:\dev\Advanced\wwwroot\lib\bootstrap\css\bootstrap-utilities.rtl.css.map
 D:\dev\Advanced\wwwroot\lib\bootstrap\js\bootstrap.bundle.js
@@ -44,6 +45,7 @@ D:\dev\Advanced\wwwroot\lib\bootstrap\css\bootstrap-utilities.rtl.min.css.map
 D:\dev\Advanced\wwwroot\lib\bootstrap\css\bootstrap.min.css.map
 D:\dev\Advanced\wwwroot\lib\bootstrap\js\bootstrap.bundle.min.js.map
 D:\dev\Advanced\wwwroot\lib\bootstrap\css\bootstrap.rtl.css.map
+wwwroot\blazorValidation.css
 wwwroot\connectionErrors.css
 wwwroot\interop.js
 wwwroot\lib\bootstrap\css\bootstrap.css

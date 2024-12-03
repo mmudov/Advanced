@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "D:\\dev\\Advanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|d:\\dev\\advanced\\blazor\\navlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|solutionrelative:blazor\\navlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|d:\\dev\\advanced\\advanced\\services\\toggleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|solutionrelative:advanced\\services\\toggleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|d:\\dev\\advanced\\blazor\\multinavlink.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|solutionrelative:blazor\\multinavlink.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|d:\\dev\\advanced\\blazor\\persondisplay.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|solutionrelative:blazor\\persondisplay.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|d:\\dev\\advanced\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|solutionrelative:pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|d:\\dev\\advanced\\blazor\\forms\\editor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|solutionrelative:blazor\\forms\\editor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ToggleService.cs",
-              "DocumentMoniker": "D:\\dev\\Advanced\\Advanced\\Services\\ToggleService.cs",
-              "RelativeDocumentMoniker": "Advanced\\Services\\ToggleService.cs",
-              "ToolTip": "D:\\dev\\Advanced\\Advanced\\Services\\ToggleService.cs",
-              "RelativeToolTip": "Advanced\\Services\\ToggleService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T20:57:13.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "NavLayout.razor",
-              "DocumentMoniker": "D:\\dev\\Advanced\\Blazor\\NavLayout.razor",
-              "RelativeDocumentMoniker": "Blazor\\NavLayout.razor",
-              "ToolTip": "D:\\dev\\Advanced\\Blazor\\NavLayout.razor",
-              "RelativeToolTip": "Blazor\\NavLayout.razor",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAADUAAAAEAAAAAAAAAA==",
+              "Title": "Editor.razor",
+              "DocumentMoniker": "D:\\dev\\Advanced\\Blazor\\Forms\\Editor.razor",
+              "RelativeDocumentMoniker": "Blazor\\Forms\\Editor.razor",
+              "ToolTip": "D:\\dev\\Advanced\\Blazor\\Forms\\Editor.razor",
+              "RelativeToolTip": "Blazor\\Forms\\Editor.razor",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEsAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T20:55:45.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MultiNavLink.razor",
-              "DocumentMoniker": "D:\\dev\\Advanced\\Blazor\\MultiNavLink.razor",
-              "RelativeDocumentMoniker": "Blazor\\MultiNavLink.razor",
-              "ToolTip": "D:\\dev\\Advanced\\Blazor\\MultiNavLink.razor",
-              "RelativeToolTip": "Blazor\\MultiNavLink.razor",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAEMAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T20:54:25.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PersonDisplay.razor",
-              "DocumentMoniker": "D:\\dev\\Advanced\\Blazor\\PersonDisplay.razor",
-              "RelativeDocumentMoniker": "Blazor\\PersonDisplay.razor",
-              "ToolTip": "D:\\dev\\Advanced\\Blazor\\PersonDisplay.razor",
-              "RelativeToolTip": "Blazor\\PersonDisplay.razor",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAYwEgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T20:49:53.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Host.cshtml",
-              "DocumentMoniker": "D:\\dev\\Advanced\\Pages\\_Host.cshtml",
-              "RelativeDocumentMoniker": "Pages\\_Host.cshtml",
-              "ToolTip": "D:\\dev\\Advanced\\Pages\\_Host.cshtml",
-              "RelativeToolTip": "Pages\\_Host.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T20:49:12.712Z",
+              "WhenOpened": "2024-12-03T09:27:26.319Z",
               "EditorCaption": ""
             },
             {

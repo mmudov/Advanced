@@ -40,6 +40,34 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Qmxhem9yXEV2ZW50cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/dev/Advanced/Blazor/Forms/CustomSelect.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yXEZvcm1zXEN1c3RvbVNlbGVjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/Advanced/Blazor/Forms/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yXEZvcm1zXERldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/Advanced/Blazor/Forms/Editor.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yXEZvcm1zXEVkaXRvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/Advanced/Blazor/Forms/EmptyLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yXEZvcm1zXEVtcHR5TGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/Advanced/Blazor/Forms/FormSpy.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yXEZvcm1zXEZvcm1TcHkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/Advanced/Blazor/Forms/List.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yXEZvcm1zXExpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/Advanced/Blazor/Forms/ValidButton.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yXEZvcm1zXFZhbGlkQnV0dG9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/dev/Advanced/Blazor/MultiNavLink.razor]
 build_metadata.AdditionalFiles.TargetPath = Qmxhem9yXE11bHRpTmF2TGluay5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
