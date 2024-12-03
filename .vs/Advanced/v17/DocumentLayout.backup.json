@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\dev\\Advanced\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|d:\\dev\\advanced\\blazor\\forms\\editor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|solutionrelative:blazor\\forms\\editor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,21 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Editor.razor",
-              "DocumentMoniker": "D:\\dev\\Advanced\\Blazor\\Forms\\Editor.razor",
-              "RelativeDocumentMoniker": "Blazor\\Forms\\Editor.razor",
-              "ToolTip": "D:\\dev\\Advanced\\Blazor\\Forms\\Editor.razor",
-              "RelativeToolTip": "Blazor\\Forms\\Editor.razor",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEsAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-03T09:27:26.319Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"

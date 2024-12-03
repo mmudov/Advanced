@@ -1,0 +1,14 @@
+D:\dev\BlazorWebAssembly\obj\Debug\net9.0\staticwebassets.build.json
+D:\dev\BlazorWebAssembly\obj\Debug\net9.0\staticwebassets.build.json
+D:\dev\BlazorWebAssembly\obj\Debug\net9.0\staticwebassets.build.json
+D:\dev\BlazorWebAssembly\obj\Debug\net9.0\staticwebassets.build.json
+D:\dev\BlazorWebAssembly\obj\Debug\net9.0\staticwebassets.build.json
+D:\dev\BlazorWebAssembly\obj\Debug\net9.0\staticwebassets.build.json
+D:\dev\BlazorWebAssembly\obj\Debug\net9.0\staticwebassets.build.json
+D:\dev\BlazorWebAssembly\obj\Debug\net9.0\staticwebassets.build.json
+D:\dev\BlazorWebAssembly\obj\Debug\net9.0\staticwebassets.build.json
+D:\dev\BlazorWebAssembly\obj\Debug\net9.0\staticwebassets.build.json
+D:\dev\BlazorWebAssembly\obj\Debug\net9.0\staticwebassets.build.json
+D:\dev\BlazorWebAssembly\obj\Debug\net9.0\staticwebassets.build.json
+D:\dev\BlazorWebAssembly\obj\Debug\net9.0\staticwebassets.build.json
+D:\dev\BlazorWebAssembly\obj\Debug\net9.0\staticwebassets.build.json
