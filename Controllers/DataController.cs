@@ -1,11 +1,14 @@
 ﻿using Advanced.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Advanced.Controllers
 {
     [ApiController]
     [Route("/api/people")]
+    //[Authorize]
+    [Authorize(AuthenticationSchemes = "Identity.Application, Bearer")]
     public class DataController : ControllerBase
     {
         private DataContext context;

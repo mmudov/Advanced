@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "S2zgSyrJxEtVsnwDiEmwm5O8l5p3Uh4bweJiBYCr8d4=",
+  "Hash": "MFwyxYlx/0nDhuMCYRIfGnNiaNeqb/jqEhLmlVtF8e4=",
   "Source": "Advanced",
   "BasePath": "_content/Advanced",
   "Mode": "Default",
@@ -435,6 +435,27 @@
       "OriginalItemSpec": "D:\\dev\\Advanced\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map"
     },
     {
+      "Identity": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\gwcpklv45s-pqybvgm6lg.gz",
+      "SourceId": "Advanced",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Advanced",
+      "RelativePath": "webclient#[.{fingerprint=pqybvgm6lg}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\dev\\Advanced\\wwwroot\\webclient.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "j15z7dctg0",
+      "Integrity": "uUD3x0s2iprD2+18ydEQGiEbgF0PHz7cVR58DZpGIsw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\dev\\Advanced\\wwwroot\\webclient.html"
+    },
+    {
       "Identity": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\i7z462p4ac-6k0x1vcin3.gz",
       "SourceId": "Advanced",
       "SourceType": "Discovered",
@@ -622,6 +643,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\dev\\Advanced\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Identity": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\pszzqbmmha-e4luh4afse.gz",
+      "SourceId": "Advanced",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Advanced",
+      "RelativePath": "webclient#[.{fingerprint=e4luh4afse}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\dev\\Advanced\\wwwroot\\webclient.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "p1vy9mcxmv",
+      "Integrity": "U23pKAeOyoWDDk1PoWAMalHCF0AXhE50xRCDM9oJFMY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\dev\\Advanced\\wwwroot\\webclient.js"
     },
     {
       "Identity": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\rp6wlh80o8-lni73340tj.gz",
@@ -3858,6 +3900,48 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
+      "Identity": "D:\\dev\\Advanced\\wwwroot\\webclient.html",
+      "SourceId": "Advanced",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\dev\\Advanced\\wwwroot\\",
+      "BasePath": "_content/Advanced",
+      "RelativePath": "webclient#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pqybvgm6lg",
+      "Integrity": "X9yM8yf2vHvCQs35Y5FowW9S17Xi7vlA9d5gbnJ/i2Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\webclient.html"
+    },
+    {
+      "Identity": "D:\\dev\\Advanced\\wwwroot\\webclient.js",
+      "SourceId": "Advanced",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\dev\\Advanced\\wwwroot\\",
+      "BasePath": "_content/Advanced",
+      "RelativePath": "webclient#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e4luh4afse",
+      "Integrity": "kpgrKAZ/nYysJl/SHPTiTE3ZyWKhP15eDva0odYmrh8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\webclient.js"
+    },
+    {
       "Identity": "D:\\dev\\BlazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "SourceId": "BlazorWebAssembly",
       "SourceType": "Project",
@@ -3872,8 +3956,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "vumtzw38pp",
-      "Integrity": "CTQp2EwW/9aK0AjbMCSqJLF5LIBupSg+CwAscOjvw6c=",
+      "Fingerprint": "rf9a7qdsyk",
+      "Integrity": "udK7BxwsHYXzuOY5fKVsZOzy+oFCVh7Gko67SxMAyno=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\dev\\BlazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -3914,8 +3998,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "zysmzvd94j",
-      "Integrity": "1dSwO/8eOe6vc/M37j8BnpuCl+Ajg3U/mlF5tmGEWTg=",
+      "Fingerprint": "nwm3hvl3q8",
+      "Integrity": "tzPR/Apu0Id6YCjgu+Cvthoo8r6RX8TCIl2B6YHNv2A=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\dev\\BlazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorWebAssembly.pdb"
@@ -3935,8 +4019,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "1h7ocd564j",
-      "Integrity": "KxTQRPj3wtqzPzlCpPrRPNTIdF3Oip2nUz5XmbF8lVE=",
+      "Fingerprint": "d77mfrn4lc",
+      "Integrity": "BwfoJuzq+FvFkqJv/p0op/tuPXmx6GTjGl7lEkaV0+o=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\dev\\BlazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorWebAssembly.wasm"
@@ -3956,8 +4040,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "ky4ntxvv1e",
-      "Integrity": "3Ims+vq1vrc2C2OjFUyjnra2il/OauqzvWTCYm0Cytg=",
+      "Fingerprint": "3qubsrz0lh",
+      "Integrity": "tXdC0mNRa8ilxSgSuQdtj2/MqUro2zshfTa6SJz1BAk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\dev\\BlazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\DataModel.pdb"
@@ -3977,8 +4061,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "058k2h22ot",
-      "Integrity": "NCzND0JcJ2YbYvdXhxapwngHH8jSFbf6oSHuLlMt8YY=",
+      "Fingerprint": "y7c7ucxtdz",
+      "Integrity": "Yugi3p5R4hLCPK2fAqWtxdjokKoIxyNNtiOnzy1Oyus=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\dev\\BlazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\DataModel.wasm"
@@ -9129,12 +9213,12 @@
       "OriginalItemSpec": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\7h1y4x9lmu-3yqrkynz4f.gz"
     },
     {
-      "Identity": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\7ll44tk9wd-058k2h22ot.gz",
+      "Identity": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\7ll44tk9wd-y7c7ucxtdz.gz",
       "SourceId": "BlazorWebAssembly",
       "SourceType": "Project",
       "ContentRoot": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "webassembly",
-      "RelativePath": "_framework/DataModel#[.{fingerprint=058k2h22ot}]!.wasm.gz",
+      "RelativePath": "_framework/DataModel#[.{fingerprint=y7c7ucxtdz}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -9143,11 +9227,11 @@
       "RelatedAsset": "D:\\dev\\BlazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\DataModel.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "zfsu6w8yzk",
-      "Integrity": "gc77X+PC6tWdPI+PexYZ70/vg/aEKH1ZyInZn1zvUX8=",
+      "Fingerprint": "69dptxlzd9",
+      "Integrity": "WoD4N6FrTNUOZPVpDM49T/lxBmgN/jrLfGB9eNz6yws=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\7ll44tk9wd-058k2h22ot.gz"
+      "OriginalItemSpec": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\7ll44tk9wd-y7c7ucxtdz.gz"
     },
     {
       "Identity": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\7rvroqxxmh-4q2qrbacz2.gz",
@@ -9213,7 +9297,7 @@
       "OriginalItemSpec": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\84mkd00fk6-ze7l9au5js.gz"
     },
     {
-      "Identity": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\8cx7rnpmu5-vumtzw38pp.gz",
+      "Identity": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\8cx7rnpmu5-rf9a7qdsyk.gz",
       "SourceId": "BlazorWebAssembly",
       "SourceType": "Project",
       "ContentRoot": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\",
@@ -9227,11 +9311,11 @@
       "RelatedAsset": "D:\\dev\\BlazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "x795bpmlyp",
-      "Integrity": "7Uxk+QeRE/lPagta1lJ+cxBeisYUOwcnAWZeaQir9wE=",
+      "Fingerprint": "zexf7tn1ne",
+      "Integrity": "6wGb/tKnKqhsyHIy/74jQpKnOxakAKmnksVGfL659zw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\8cx7rnpmu5-vumtzw38pp.gz"
+      "OriginalItemSpec": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\8cx7rnpmu5-rf9a7qdsyk.gz"
     },
     {
       "Identity": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\90zc2brztr-c2jlpeoesf.gz",
@@ -9297,12 +9381,12 @@
       "OriginalItemSpec": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\91rcsi00qr-ub07r2b239.gz"
     },
     {
-      "Identity": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\99nw0q8kyf-1h7ocd564j.gz",
+      "Identity": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\99nw0q8kyf-d77mfrn4lc.gz",
       "SourceId": "BlazorWebAssembly",
       "SourceType": "Project",
       "ContentRoot": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "webassembly",
-      "RelativePath": "_framework/BlazorWebAssembly#[.{fingerprint=1h7ocd564j}]!.wasm.gz",
+      "RelativePath": "_framework/BlazorWebAssembly#[.{fingerprint=d77mfrn4lc}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -9311,11 +9395,11 @@
       "RelatedAsset": "D:\\dev\\BlazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorWebAssembly.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "v1sv3ceeen",
-      "Integrity": "PW3YFUw3gL7UALBOxtnDqdA7M8yTnara8fQo3C+QIjo=",
+      "Fingerprint": "7zkjxho3ar",
+      "Integrity": "DSpVqamKq6rbbLA2i6Gjd+W/8DEzZaZOYSs8FEBaqfo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\99nw0q8kyf-1h7ocd564j.gz"
+      "OriginalItemSpec": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\99nw0q8kyf-d77mfrn4lc.gz"
     },
     {
       "Identity": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\9fr1fy7tu2-c7phj0fn8m.gz",
@@ -12615,12 +12699,12 @@
       "OriginalItemSpec": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\s5fxjtdz0l-8vt79a7xxd.gz"
     },
     {
-      "Identity": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\sc4jw4wgsh-ky4ntxvv1e.gz",
+      "Identity": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\sc4jw4wgsh-3qubsrz0lh.gz",
       "SourceId": "BlazorWebAssembly",
       "SourceType": "Project",
       "ContentRoot": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "webassembly",
-      "RelativePath": "_framework/DataModel#[.{fingerprint=ky4ntxvv1e}]!.pdb.gz",
+      "RelativePath": "_framework/DataModel#[.{fingerprint=3qubsrz0lh}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -12629,11 +12713,11 @@
       "RelatedAsset": "D:\\dev\\BlazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\DataModel.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "reaegug8g3",
-      "Integrity": "zYtdEmPEi2rphqTPc+epe94n5pN7Pu6qflAJ6lxnRZQ=",
+      "Fingerprint": "osl4elz2ir",
+      "Integrity": "WDkD2iFE1CgfeKLif51G6Rys79cr3RBu6OmzCZwfRls=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\sc4jw4wgsh-ky4ntxvv1e.gz"
+      "OriginalItemSpec": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\sc4jw4wgsh-3qubsrz0lh.gz"
     },
     {
       "Identity": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\schb3nl3q4-35mt6q5ljl.gz",
@@ -12951,12 +13035,12 @@
       "OriginalItemSpec": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\ubhc9rndwe-0phgw2xrn5.gz"
     },
     {
-      "Identity": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\uphutm0ua9-zysmzvd94j.gz",
+      "Identity": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\uphutm0ua9-nwm3hvl3q8.gz",
       "SourceId": "BlazorWebAssembly",
       "SourceType": "Project",
       "ContentRoot": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "webassembly",
-      "RelativePath": "_framework/BlazorWebAssembly#[.{fingerprint=zysmzvd94j}]!.pdb.gz",
+      "RelativePath": "_framework/BlazorWebAssembly#[.{fingerprint=nwm3hvl3q8}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -12965,11 +13049,11 @@
       "RelatedAsset": "D:\\dev\\BlazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorWebAssembly.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "eup9gumzbk",
-      "Integrity": "6qwm8zd+b0fyRz3ArYh9rZoIegGC54OC2x9SZyn+G7c=",
+      "Fingerprint": "rsjpw8uout",
+      "Integrity": "ha8ouzlbCg+RHRfOC+uuE1YODoaCjL5XTHe05txMf1E=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\uphutm0ua9-zysmzvd94j.gz"
+      "OriginalItemSpec": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\uphutm0ua9-nwm3hvl3q8.gz"
     },
     {
       "Identity": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\v51nf89bmh-scv6i6bo0g.gz",
@@ -15190,7 +15274,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 02 Dec 2024 20:24:51 GMT"
+          "Value": "Wed, 04 Dec 2024 14:41:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15243,7 +15327,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 02 Dec 2024 20:24:51 GMT"
+          "Value": "Wed, 04 Dec 2024 14:41:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15280,7 +15364,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 02 Dec 2024 20:24:51 GMT"
+          "Value": "Wed, 04 Dec 2024 14:41:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15327,7 +15411,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 02 Dec 2024 20:24:51 GMT"
+          "Value": "Wed, 04 Dec 2024 14:41:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15388,7 +15472,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 02 Dec 2024 20:24:51 GMT"
+          "Value": "Wed, 04 Dec 2024 14:41:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15433,7 +15517,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 02 Dec 2024 20:24:51 GMT"
+          "Value": "Wed, 04 Dec 2024 14:41:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35814,28 +35898,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CTQp2EwW/9aK0AjbMCSqJLF5LIBupSg+CwAscOjvw6c=\""
+          "Value": "\"udK7BxwsHYXzuOY5fKVsZOzy+oFCVh7Gko67SxMAyno=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 06:08:57 GMT"
+          "Value": "Wed, 04 Dec 2024 08:54:23 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CTQp2EwW/9aK0AjbMCSqJLF5LIBupSg+CwAscOjvw6c="
+          "Value": "sha256-udK7BxwsHYXzuOY5fKVsZOzy+oFCVh7Gko67SxMAyno="
         }
       ]
     },
     {
       "Route": "webassembly/_framework/blazor.boot.json",
-      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\8cx7rnpmu5-vumtzw38pp.gz",
+      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\8cx7rnpmu5-rf9a7qdsyk.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000080424642"
+          "Quality": "0.000080134626"
         }
       ],
       "ResponseHeaders": [
@@ -35853,15 +35937,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12433"
+          "Value": "12478"
         },
         {
           "Name": "ETag",
-          "Value": "\"7Uxk+QeRE/lPagta1lJ+cxBeisYUOwcnAWZeaQir9wE=\""
+          "Value": "\"6wGb/tKnKqhsyHIy/74jQpKnOxakAKmnksVGfL659zw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 06:08:23 GMT"
+          "Value": "Wed, 04 Dec 2024 08:53:38 GMT"
         },
         {
           "Name": "Vary",
@@ -35873,19 +35957,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"CTQp2EwW/9aK0AjbMCSqJLF5LIBupSg+CwAscOjvw6c=\""
+          "Value": "W/\"udK7BxwsHYXzuOY5fKVsZOzy+oFCVh7Gko67SxMAyno=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CTQp2EwW/9aK0AjbMCSqJLF5LIBupSg+CwAscOjvw6c="
+          "Value": "sha256-udK7BxwsHYXzuOY5fKVsZOzy+oFCVh7Gko67SxMAyno="
         }
       ]
     },
     {
       "Route": "webassembly/_framework/blazor.boot.json.gz",
-      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\8cx7rnpmu5-vumtzw38pp.gz",
+      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\8cx7rnpmu5-rf9a7qdsyk.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -35902,7 +35986,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12433"
+          "Value": "12478"
         },
         {
           "Name": "Content-Type",
@@ -35910,11 +35994,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7Uxk+QeRE/lPagta1lJ+cxBeisYUOwcnAWZeaQir9wE=\""
+          "Value": "\"6wGb/tKnKqhsyHIy/74jQpKnOxakAKmnksVGfL659zw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 06:08:23 GMT"
+          "Value": "Wed, 04 Dec 2024 08:53:38 GMT"
         },
         {
           "Name": "Vary",
@@ -35924,7 +36008,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7Uxk+QeRE/lPagta1lJ+cxBeisYUOwcnAWZeaQir9wE="
+          "Value": "sha256-6wGb/tKnKqhsyHIy/74jQpKnOxakAKmnksVGfL659zw="
         }
       ]
     },
@@ -36066,7 +36150,7 @@
       ]
     },
     {
-      "Route": "webassembly/_framework/BlazorWebAssembly.1h7ocd564j.wasm",
+      "Route": "webassembly/_framework/BlazorWebAssembly.d77mfrn4lc.wasm",
       "AssetFile": "D:\\dev\\BlazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorWebAssembly.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -36088,21 +36172,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KxTQRPj3wtqzPzlCpPrRPNTIdF3Oip2nUz5XmbF8lVE=\""
+          "Value": "\"BwfoJuzq+FvFkqJv/p0op/tuPXmx6GTjGl7lEkaV0+o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 05:52:02 GMT"
+          "Value": "Wed, 04 Dec 2024 08:52:08 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1h7ocd564j"
+          "Value": "d77mfrn4lc"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KxTQRPj3wtqzPzlCpPrRPNTIdF3Oip2nUz5XmbF8lVE="
+          "Value": "sha256-BwfoJuzq+FvFkqJv/p0op/tuPXmx6GTjGl7lEkaV0+o="
         },
         {
           "Name": "label",
@@ -36111,13 +36195,13 @@
       ]
     },
     {
-      "Route": "webassembly/_framework/BlazorWebAssembly.1h7ocd564j.wasm",
-      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\99nw0q8kyf-1h7ocd564j.gz",
+      "Route": "webassembly/_framework/BlazorWebAssembly.d77mfrn4lc.wasm",
+      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\99nw0q8kyf-d77mfrn4lc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000062739193"
+          "Quality": "0.000062731322"
         }
       ],
       "ResponseHeaders": [
@@ -36135,15 +36219,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15938"
+          "Value": "15940"
         },
         {
           "Name": "ETag",
-          "Value": "\"PW3YFUw3gL7UALBOxtnDqdA7M8yTnara8fQo3C+QIjo=\""
+          "Value": "\"DSpVqamKq6rbbLA2i6Gjd+W/8DEzZaZOYSs8FEBaqfo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 05:52:07 GMT"
+          "Value": "Wed, 04 Dec 2024 08:52:10 GMT"
         },
         {
           "Name": "Vary",
@@ -36155,17 +36239,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"KxTQRPj3wtqzPzlCpPrRPNTIdF3Oip2nUz5XmbF8lVE=\""
+          "Value": "W/\"BwfoJuzq+FvFkqJv/p0op/tuPXmx6GTjGl7lEkaV0+o=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1h7ocd564j"
+          "Value": "d77mfrn4lc"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KxTQRPj3wtqzPzlCpPrRPNTIdF3Oip2nUz5XmbF8lVE="
+          "Value": "sha256-BwfoJuzq+FvFkqJv/p0op/tuPXmx6GTjGl7lEkaV0+o="
         },
         {
           "Name": "label",
@@ -36174,8 +36258,8 @@
       ]
     },
     {
-      "Route": "webassembly/_framework/BlazorWebAssembly.1h7ocd564j.wasm.gz",
-      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\99nw0q8kyf-1h7ocd564j.gz",
+      "Route": "webassembly/_framework/BlazorWebAssembly.d77mfrn4lc.wasm.gz",
+      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\99nw0q8kyf-d77mfrn4lc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -36192,7 +36276,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15938"
+          "Value": "15940"
         },
         {
           "Name": "Content-Type",
@@ -36200,11 +36284,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PW3YFUw3gL7UALBOxtnDqdA7M8yTnara8fQo3C+QIjo=\""
+          "Value": "\"DSpVqamKq6rbbLA2i6Gjd+W/8DEzZaZOYSs8FEBaqfo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 05:52:07 GMT"
+          "Value": "Wed, 04 Dec 2024 08:52:10 GMT"
         },
         {
           "Name": "Vary",
@@ -36214,11 +36298,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1h7ocd564j"
+          "Value": "d77mfrn4lc"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-PW3YFUw3gL7UALBOxtnDqdA7M8yTnara8fQo3C+QIjo="
+          "Value": "sha256-DSpVqamKq6rbbLA2i6Gjd+W/8DEzZaZOYSs8FEBaqfo="
         },
         {
           "Name": "label",
@@ -36227,6 +36311,167 @@
       ]
     },
     {
+      "Route": "webassembly/_framework/BlazorWebAssembly.nwm3hvl3q8.pdb",
+      "AssetFile": "D:\\dev\\BlazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorWebAssembly.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35040"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tzPR/Apu0Id6YCjgu+Cvthoo8r6RX8TCIl2B6YHNv2A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 08:52:07 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nwm3hvl3q8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tzPR/Apu0Id6YCjgu+Cvthoo8r6RX8TCIl2B6YHNv2A="
+        },
+        {
+          "Name": "label",
+          "Value": "webassembly/_framework/BlazorWebAssembly.pdb"
+        }
+      ]
+    },
+    {
+      "Route": "webassembly/_framework/BlazorWebAssembly.nwm3hvl3q8.pdb",
+      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\uphutm0ua9-nwm3hvl3q8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000037378986"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26752"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ha8ouzlbCg+RHRfOC+uuE1YODoaCjL5XTHe05txMf1E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 08:52:10 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"tzPR/Apu0Id6YCjgu+Cvthoo8r6RX8TCIl2B6YHNv2A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nwm3hvl3q8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tzPR/Apu0Id6YCjgu+Cvthoo8r6RX8TCIl2B6YHNv2A="
+        },
+        {
+          "Name": "label",
+          "Value": "webassembly/_framework/BlazorWebAssembly.pdb"
+        }
+      ]
+    },
+    {
+      "Route": "webassembly/_framework/BlazorWebAssembly.nwm3hvl3q8.pdb.gz",
+      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\uphutm0ua9-nwm3hvl3q8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26752"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ha8ouzlbCg+RHRfOC+uuE1YODoaCjL5XTHe05txMf1E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 08:52:10 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nwm3hvl3q8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ha8ouzlbCg+RHRfOC+uuE1YODoaCjL5XTHe05txMf1E="
+        },
+        {
+          "Name": "label",
+          "Value": "webassembly/_framework/BlazorWebAssembly.pdb.gz"
+        }
+      ]
+    },
+    {
       "Route": "webassembly/_framework/BlazorWebAssembly.pdb",
       "AssetFile": "D:\\dev\\BlazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorWebAssembly.pdb",
       "Selectors": [],
@@ -36249,28 +36494,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1dSwO/8eOe6vc/M37j8BnpuCl+Ajg3U/mlF5tmGEWTg=\""
+          "Value": "\"tzPR/Apu0Id6YCjgu+Cvthoo8r6RX8TCIl2B6YHNv2A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 06:08:21 GMT"
+          "Value": "Wed, 04 Dec 2024 08:52:07 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1dSwO/8eOe6vc/M37j8BnpuCl+Ajg3U/mlF5tmGEWTg="
+          "Value": "sha256-tzPR/Apu0Id6YCjgu+Cvthoo8r6RX8TCIl2B6YHNv2A="
         }
       ]
     },
     {
       "Route": "webassembly/_framework/BlazorWebAssembly.pdb",
-      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\uphutm0ua9-zysmzvd94j.gz",
+      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\uphutm0ua9-nwm3hvl3q8.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000037381780"
+          "Quality": "0.000037378986"
         }
       ],
       "ResponseHeaders": [
@@ -36288,15 +36533,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26750"
+          "Value": "26752"
         },
         {
           "Name": "ETag",
-          "Value": "\"6qwm8zd+b0fyRz3ArYh9rZoIegGC54OC2x9SZyn+G7c=\""
+          "Value": "\"ha8ouzlbCg+RHRfOC+uuE1YODoaCjL5XTHe05txMf1E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 06:08:23 GMT"
+          "Value": "Wed, 04 Dec 2024 08:52:10 GMT"
         },
         {
           "Name": "Vary",
@@ -36308,19 +36553,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"1dSwO/8eOe6vc/M37j8BnpuCl+Ajg3U/mlF5tmGEWTg=\""
+          "Value": "W/\"tzPR/Apu0Id6YCjgu+Cvthoo8r6RX8TCIl2B6YHNv2A=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1dSwO/8eOe6vc/M37j8BnpuCl+Ajg3U/mlF5tmGEWTg="
+          "Value": "sha256-tzPR/Apu0Id6YCjgu+Cvthoo8r6RX8TCIl2B6YHNv2A="
         }
       ]
     },
     {
       "Route": "webassembly/_framework/BlazorWebAssembly.pdb.gz",
-      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\uphutm0ua9-zysmzvd94j.gz",
+      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\uphutm0ua9-nwm3hvl3q8.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -36337,7 +36582,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26750"
+          "Value": "26752"
         },
         {
           "Name": "Content-Type",
@@ -36345,11 +36590,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6qwm8zd+b0fyRz3ArYh9rZoIegGC54OC2x9SZyn+G7c=\""
+          "Value": "\"ha8ouzlbCg+RHRfOC+uuE1YODoaCjL5XTHe05txMf1E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 06:08:23 GMT"
+          "Value": "Wed, 04 Dec 2024 08:52:10 GMT"
         },
         {
           "Name": "Vary",
@@ -36359,7 +36604,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6qwm8zd+b0fyRz3ArYh9rZoIegGC54OC2x9SZyn+G7c="
+          "Value": "sha256-ha8ouzlbCg+RHRfOC+uuE1YODoaCjL5XTHe05txMf1E="
         }
       ]
     },
@@ -36386,28 +36631,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KxTQRPj3wtqzPzlCpPrRPNTIdF3Oip2nUz5XmbF8lVE=\""
+          "Value": "\"BwfoJuzq+FvFkqJv/p0op/tuPXmx6GTjGl7lEkaV0+o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 05:52:02 GMT"
+          "Value": "Wed, 04 Dec 2024 08:52:08 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KxTQRPj3wtqzPzlCpPrRPNTIdF3Oip2nUz5XmbF8lVE="
+          "Value": "sha256-BwfoJuzq+FvFkqJv/p0op/tuPXmx6GTjGl7lEkaV0+o="
         }
       ]
     },
     {
       "Route": "webassembly/_framework/BlazorWebAssembly.wasm",
-      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\99nw0q8kyf-1h7ocd564j.gz",
+      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\99nw0q8kyf-d77mfrn4lc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000062739193"
+          "Quality": "0.000062731322"
         }
       ],
       "ResponseHeaders": [
@@ -36425,15 +36670,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15938"
+          "Value": "15940"
         },
         {
           "Name": "ETag",
-          "Value": "\"PW3YFUw3gL7UALBOxtnDqdA7M8yTnara8fQo3C+QIjo=\""
+          "Value": "\"DSpVqamKq6rbbLA2i6Gjd+W/8DEzZaZOYSs8FEBaqfo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 05:52:07 GMT"
+          "Value": "Wed, 04 Dec 2024 08:52:10 GMT"
         },
         {
           "Name": "Vary",
@@ -36445,19 +36690,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"KxTQRPj3wtqzPzlCpPrRPNTIdF3Oip2nUz5XmbF8lVE=\""
+          "Value": "W/\"BwfoJuzq+FvFkqJv/p0op/tuPXmx6GTjGl7lEkaV0+o=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KxTQRPj3wtqzPzlCpPrRPNTIdF3Oip2nUz5XmbF8lVE="
+          "Value": "sha256-BwfoJuzq+FvFkqJv/p0op/tuPXmx6GTjGl7lEkaV0+o="
         }
       ]
     },
     {
       "Route": "webassembly/_framework/BlazorWebAssembly.wasm.gz",
-      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\99nw0q8kyf-1h7ocd564j.gz",
+      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\99nw0q8kyf-d77mfrn4lc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -36474,7 +36719,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15938"
+          "Value": "15940"
         },
         {
           "Name": "Content-Type",
@@ -36482,11 +36727,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PW3YFUw3gL7UALBOxtnDqdA7M8yTnara8fQo3C+QIjo=\""
+          "Value": "\"DSpVqamKq6rbbLA2i6Gjd+W/8DEzZaZOYSs8FEBaqfo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 05:52:07 GMT"
+          "Value": "Wed, 04 Dec 2024 08:52:10 GMT"
         },
         {
           "Name": "Vary",
@@ -36496,334 +36741,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-PW3YFUw3gL7UALBOxtnDqdA7M8yTnara8fQo3C+QIjo="
+          "Value": "sha256-DSpVqamKq6rbbLA2i6Gjd+W/8DEzZaZOYSs8FEBaqfo="
         }
       ]
     },
     {
-      "Route": "webassembly/_framework/BlazorWebAssembly.zysmzvd94j.pdb",
-      "AssetFile": "D:\\dev\\BlazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorWebAssembly.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "35040"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"1dSwO/8eOe6vc/M37j8BnpuCl+Ajg3U/mlF5tmGEWTg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 06:08:21 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zysmzvd94j"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-1dSwO/8eOe6vc/M37j8BnpuCl+Ajg3U/mlF5tmGEWTg="
-        },
-        {
-          "Name": "label",
-          "Value": "webassembly/_framework/BlazorWebAssembly.pdb"
-        }
-      ]
-    },
-    {
-      "Route": "webassembly/_framework/BlazorWebAssembly.zysmzvd94j.pdb",
-      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\uphutm0ua9-zysmzvd94j.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000037381780"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "26750"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6qwm8zd+b0fyRz3ArYh9rZoIegGC54OC2x9SZyn+G7c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 06:08:23 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"1dSwO/8eOe6vc/M37j8BnpuCl+Ajg3U/mlF5tmGEWTg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zysmzvd94j"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-1dSwO/8eOe6vc/M37j8BnpuCl+Ajg3U/mlF5tmGEWTg="
-        },
-        {
-          "Name": "label",
-          "Value": "webassembly/_framework/BlazorWebAssembly.pdb"
-        }
-      ]
-    },
-    {
-      "Route": "webassembly/_framework/BlazorWebAssembly.zysmzvd94j.pdb.gz",
-      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\uphutm0ua9-zysmzvd94j.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "26750"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6qwm8zd+b0fyRz3ArYh9rZoIegGC54OC2x9SZyn+G7c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 06:08:23 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zysmzvd94j"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-6qwm8zd+b0fyRz3ArYh9rZoIegGC54OC2x9SZyn+G7c="
-        },
-        {
-          "Name": "label",
-          "Value": "webassembly/_framework/BlazorWebAssembly.pdb.gz"
-        }
-      ]
-    },
-    {
-      "Route": "webassembly/_framework/DataModel.058k2h22ot.wasm",
-      "AssetFile": "D:\\dev\\BlazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\DataModel.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6933"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NCzND0JcJ2YbYvdXhxapwngHH8jSFbf6oSHuLlMt8YY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 05:52:02 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "058k2h22ot"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-NCzND0JcJ2YbYvdXhxapwngHH8jSFbf6oSHuLlMt8YY="
-        },
-        {
-          "Name": "label",
-          "Value": "webassembly/_framework/DataModel.wasm"
-        }
-      ]
-    },
-    {
-      "Route": "webassembly/_framework/DataModel.058k2h22ot.wasm",
-      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\7ll44tk9wd-058k2h22ot.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000346140533"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2888"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gc77X+PC6tWdPI+PexYZ70/vg/aEKH1ZyInZn1zvUX8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 05:52:07 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"NCzND0JcJ2YbYvdXhxapwngHH8jSFbf6oSHuLlMt8YY=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "058k2h22ot"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-NCzND0JcJ2YbYvdXhxapwngHH8jSFbf6oSHuLlMt8YY="
-        },
-        {
-          "Name": "label",
-          "Value": "webassembly/_framework/DataModel.wasm"
-        }
-      ]
-    },
-    {
-      "Route": "webassembly/_framework/DataModel.058k2h22ot.wasm.gz",
-      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\7ll44tk9wd-058k2h22ot.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2888"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gc77X+PC6tWdPI+PexYZ70/vg/aEKH1ZyInZn1zvUX8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 05:52:07 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "058k2h22ot"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-gc77X+PC6tWdPI+PexYZ70/vg/aEKH1ZyInZn1zvUX8="
-        },
-        {
-          "Name": "label",
-          "Value": "webassembly/_framework/DataModel.wasm.gz"
-        }
-      ]
-    },
-    {
-      "Route": "webassembly/_framework/DataModel.ky4ntxvv1e.pdb",
+      "Route": "webassembly/_framework/DataModel.3qubsrz0lh.pdb",
       "AssetFile": "D:\\dev\\BlazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\DataModel.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -36845,21 +36768,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3Ims+vq1vrc2C2OjFUyjnra2il/OauqzvWTCYm0Cytg=\""
+          "Value": "\"tXdC0mNRa8ilxSgSuQdtj2/MqUro2zshfTa6SJz1BAk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 05:51:53 GMT"
+          "Value": "Wed, 04 Dec 2024 08:52:01 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ky4ntxvv1e"
+          "Value": "3qubsrz0lh"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3Ims+vq1vrc2C2OjFUyjnra2il/OauqzvWTCYm0Cytg="
+          "Value": "sha256-tXdC0mNRa8ilxSgSuQdtj2/MqUro2zshfTa6SJz1BAk="
         },
         {
           "Name": "label",
@@ -36868,13 +36791,13 @@
       ]
     },
     {
-      "Route": "webassembly/_framework/DataModel.ky4ntxvv1e.pdb",
-      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\sc4jw4wgsh-ky4ntxvv1e.gz",
+      "Route": "webassembly/_framework/DataModel.3qubsrz0lh.pdb",
+      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\sc4jw4wgsh-3qubsrz0lh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000146348602"
+          "Quality": "0.000146391451"
         }
       ],
       "ResponseHeaders": [
@@ -36892,15 +36815,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6832"
+          "Value": "6830"
         },
         {
           "Name": "ETag",
-          "Value": "\"zYtdEmPEi2rphqTPc+epe94n5pN7Pu6qflAJ6lxnRZQ=\""
+          "Value": "\"WDkD2iFE1CgfeKLif51G6Rys79cr3RBu6OmzCZwfRls=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 05:52:07 GMT"
+          "Value": "Wed, 04 Dec 2024 08:52:10 GMT"
         },
         {
           "Name": "Vary",
@@ -36912,17 +36835,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"3Ims+vq1vrc2C2OjFUyjnra2il/OauqzvWTCYm0Cytg=\""
+          "Value": "W/\"tXdC0mNRa8ilxSgSuQdtj2/MqUro2zshfTa6SJz1BAk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ky4ntxvv1e"
+          "Value": "3qubsrz0lh"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3Ims+vq1vrc2C2OjFUyjnra2il/OauqzvWTCYm0Cytg="
+          "Value": "sha256-tXdC0mNRa8ilxSgSuQdtj2/MqUro2zshfTa6SJz1BAk="
         },
         {
           "Name": "label",
@@ -36931,8 +36854,8 @@
       ]
     },
     {
-      "Route": "webassembly/_framework/DataModel.ky4ntxvv1e.pdb.gz",
-      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\sc4jw4wgsh-ky4ntxvv1e.gz",
+      "Route": "webassembly/_framework/DataModel.3qubsrz0lh.pdb.gz",
+      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\sc4jw4wgsh-3qubsrz0lh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -36949,7 +36872,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6832"
+          "Value": "6830"
         },
         {
           "Name": "Content-Type",
@@ -36957,11 +36880,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zYtdEmPEi2rphqTPc+epe94n5pN7Pu6qflAJ6lxnRZQ=\""
+          "Value": "\"WDkD2iFE1CgfeKLif51G6Rys79cr3RBu6OmzCZwfRls=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 05:52:07 GMT"
+          "Value": "Wed, 04 Dec 2024 08:52:10 GMT"
         },
         {
           "Name": "Vary",
@@ -36971,11 +36894,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ky4ntxvv1e"
+          "Value": "3qubsrz0lh"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zYtdEmPEi2rphqTPc+epe94n5pN7Pu6qflAJ6lxnRZQ="
+          "Value": "sha256-WDkD2iFE1CgfeKLif51G6Rys79cr3RBu6OmzCZwfRls="
         },
         {
           "Name": "label",
@@ -37006,28 +36929,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3Ims+vq1vrc2C2OjFUyjnra2il/OauqzvWTCYm0Cytg=\""
+          "Value": "\"tXdC0mNRa8ilxSgSuQdtj2/MqUro2zshfTa6SJz1BAk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 05:51:53 GMT"
+          "Value": "Wed, 04 Dec 2024 08:52:01 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3Ims+vq1vrc2C2OjFUyjnra2il/OauqzvWTCYm0Cytg="
+          "Value": "sha256-tXdC0mNRa8ilxSgSuQdtj2/MqUro2zshfTa6SJz1BAk="
         }
       ]
     },
     {
       "Route": "webassembly/_framework/DataModel.pdb",
-      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\sc4jw4wgsh-ky4ntxvv1e.gz",
+      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\sc4jw4wgsh-3qubsrz0lh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000146348602"
+          "Quality": "0.000146391451"
         }
       ],
       "ResponseHeaders": [
@@ -37045,15 +36968,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6832"
+          "Value": "6830"
         },
         {
           "Name": "ETag",
-          "Value": "\"zYtdEmPEi2rphqTPc+epe94n5pN7Pu6qflAJ6lxnRZQ=\""
+          "Value": "\"WDkD2iFE1CgfeKLif51G6Rys79cr3RBu6OmzCZwfRls=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 05:52:07 GMT"
+          "Value": "Wed, 04 Dec 2024 08:52:10 GMT"
         },
         {
           "Name": "Vary",
@@ -37065,19 +36988,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"3Ims+vq1vrc2C2OjFUyjnra2il/OauqzvWTCYm0Cytg=\""
+          "Value": "W/\"tXdC0mNRa8ilxSgSuQdtj2/MqUro2zshfTa6SJz1BAk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3Ims+vq1vrc2C2OjFUyjnra2il/OauqzvWTCYm0Cytg="
+          "Value": "sha256-tXdC0mNRa8ilxSgSuQdtj2/MqUro2zshfTa6SJz1BAk="
         }
       ]
     },
     {
       "Route": "webassembly/_framework/DataModel.pdb.gz",
-      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\sc4jw4wgsh-ky4ntxvv1e.gz",
+      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\sc4jw4wgsh-3qubsrz0lh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -37094,7 +37017,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6832"
+          "Value": "6830"
         },
         {
           "Name": "Content-Type",
@@ -37102,11 +37025,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zYtdEmPEi2rphqTPc+epe94n5pN7Pu6qflAJ6lxnRZQ=\""
+          "Value": "\"WDkD2iFE1CgfeKLif51G6Rys79cr3RBu6OmzCZwfRls=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 05:52:07 GMT"
+          "Value": "Wed, 04 Dec 2024 08:52:10 GMT"
         },
         {
           "Name": "Vary",
@@ -37116,7 +37039,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zYtdEmPEi2rphqTPc+epe94n5pN7Pu6qflAJ6lxnRZQ="
+          "Value": "sha256-WDkD2iFE1CgfeKLif51G6Rys79cr3RBu6OmzCZwfRls="
         }
       ]
     },
@@ -37143,28 +37066,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NCzND0JcJ2YbYvdXhxapwngHH8jSFbf6oSHuLlMt8YY=\""
+          "Value": "\"Yugi3p5R4hLCPK2fAqWtxdjokKoIxyNNtiOnzy1Oyus=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 05:52:02 GMT"
+          "Value": "Wed, 04 Dec 2024 08:52:08 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NCzND0JcJ2YbYvdXhxapwngHH8jSFbf6oSHuLlMt8YY="
+          "Value": "sha256-Yugi3p5R4hLCPK2fAqWtxdjokKoIxyNNtiOnzy1Oyus="
         }
       ]
     },
     {
       "Route": "webassembly/_framework/DataModel.wasm",
-      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\7ll44tk9wd-058k2h22ot.gz",
+      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\7ll44tk9wd-y7c7ucxtdz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000346140533"
+          "Quality": "0.000346380326"
         }
       ],
       "ResponseHeaders": [
@@ -37182,15 +37105,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2888"
+          "Value": "2886"
         },
         {
           "Name": "ETag",
-          "Value": "\"gc77X+PC6tWdPI+PexYZ70/vg/aEKH1ZyInZn1zvUX8=\""
+          "Value": "\"WoD4N6FrTNUOZPVpDM49T/lxBmgN/jrLfGB9eNz6yws=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 05:52:07 GMT"
+          "Value": "Wed, 04 Dec 2024 08:52:10 GMT"
         },
         {
           "Name": "Vary",
@@ -37202,19 +37125,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"NCzND0JcJ2YbYvdXhxapwngHH8jSFbf6oSHuLlMt8YY=\""
+          "Value": "W/\"Yugi3p5R4hLCPK2fAqWtxdjokKoIxyNNtiOnzy1Oyus=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NCzND0JcJ2YbYvdXhxapwngHH8jSFbf6oSHuLlMt8YY="
+          "Value": "sha256-Yugi3p5R4hLCPK2fAqWtxdjokKoIxyNNtiOnzy1Oyus="
         }
       ]
     },
     {
       "Route": "webassembly/_framework/DataModel.wasm.gz",
-      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\7ll44tk9wd-058k2h22ot.gz",
+      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\7ll44tk9wd-y7c7ucxtdz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -37231,7 +37154,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2888"
+          "Value": "2886"
         },
         {
           "Name": "Content-Type",
@@ -37239,11 +37162,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gc77X+PC6tWdPI+PexYZ70/vg/aEKH1ZyInZn1zvUX8=\""
+          "Value": "\"WoD4N6FrTNUOZPVpDM49T/lxBmgN/jrLfGB9eNz6yws=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 05:52:07 GMT"
+          "Value": "Wed, 04 Dec 2024 08:52:10 GMT"
         },
         {
           "Name": "Vary",
@@ -37253,7 +37176,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-gc77X+PC6tWdPI+PexYZ70/vg/aEKH1ZyInZn1zvUX8="
+          "Value": "sha256-WoD4N6FrTNUOZPVpDM49T/lxBmgN/jrLfGB9eNz6yws="
+        }
+      ]
+    },
+    {
+      "Route": "webassembly/_framework/DataModel.y7c7ucxtdz.wasm",
+      "AssetFile": "D:\\dev\\BlazorWebAssembly\\bin\\Debug\\net9.0\\wwwroot\\_framework\\DataModel.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6933"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yugi3p5R4hLCPK2fAqWtxdjokKoIxyNNtiOnzy1Oyus=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 08:52:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y7c7ucxtdz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yugi3p5R4hLCPK2fAqWtxdjokKoIxyNNtiOnzy1Oyus="
+        },
+        {
+          "Name": "label",
+          "Value": "webassembly/_framework/DataModel.wasm"
+        }
+      ]
+    },
+    {
+      "Route": "webassembly/_framework/DataModel.y7c7ucxtdz.wasm",
+      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\7ll44tk9wd-y7c7ucxtdz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000346380326"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2886"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WoD4N6FrTNUOZPVpDM49T/lxBmgN/jrLfGB9eNz6yws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 08:52:10 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Yugi3p5R4hLCPK2fAqWtxdjokKoIxyNNtiOnzy1Oyus=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y7c7ucxtdz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yugi3p5R4hLCPK2fAqWtxdjokKoIxyNNtiOnzy1Oyus="
+        },
+        {
+          "Name": "label",
+          "Value": "webassembly/_framework/DataModel.wasm"
+        }
+      ]
+    },
+    {
+      "Route": "webassembly/_framework/DataModel.y7c7ucxtdz.wasm.gz",
+      "AssetFile": "D:\\dev\\BlazorWebAssembly\\obj\\Debug\\net9.0\\compressed\\7ll44tk9wd-y7c7ucxtdz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2886"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WoD4N6FrTNUOZPVpDM49T/lxBmgN/jrLfGB9eNz6yws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 08:52:10 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y7c7ucxtdz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WoD4N6FrTNUOZPVpDM49T/lxBmgN/jrLfGB9eNz6yws="
+        },
+        {
+          "Name": "label",
+          "Value": "webassembly/_framework/DataModel.wasm.gz"
         }
       ]
     },
@@ -111322,6 +111406,602 @@
         {
           "Name": "integrity",
           "Value": "sha256-HD3vAUwurZXW96vdgG5RVLhMjmVeSgBs4iKLSw2+Uwk="
+        }
+      ]
+    },
+    {
+      "Route": "webclient.e4luh4afse.js",
+      "AssetFile": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\pszzqbmmha-e4luh4afse.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001253132832"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "797"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U23pKAeOyoWDDk1PoWAMalHCF0AXhE50xRCDM9oJFMY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 14:00:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kpgrKAZ/nYysJl/SHPTiTE3ZyWKhP15eDva0odYmrh8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e4luh4afse"
+        },
+        {
+          "Name": "label",
+          "Value": "webclient.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kpgrKAZ/nYysJl/SHPTiTE3ZyWKhP15eDva0odYmrh8="
+        }
+      ]
+    },
+    {
+      "Route": "webclient.e4luh4afse.js",
+      "AssetFile": "D:\\dev\\Advanced\\wwwroot\\webclient.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2553"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kpgrKAZ/nYysJl/SHPTiTE3ZyWKhP15eDva0odYmrh8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 14:00:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e4luh4afse"
+        },
+        {
+          "Name": "label",
+          "Value": "webclient.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kpgrKAZ/nYysJl/SHPTiTE3ZyWKhP15eDva0odYmrh8="
+        }
+      ]
+    },
+    {
+      "Route": "webclient.e4luh4afse.js.gz",
+      "AssetFile": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\pszzqbmmha-e4luh4afse.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "797"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U23pKAeOyoWDDk1PoWAMalHCF0AXhE50xRCDM9oJFMY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 14:00:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e4luh4afse"
+        },
+        {
+          "Name": "label",
+          "Value": "webclient.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U23pKAeOyoWDDk1PoWAMalHCF0AXhE50xRCDM9oJFMY="
+        }
+      ]
+    },
+    {
+      "Route": "webclient.html",
+      "AssetFile": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\gwcpklv45s-pqybvgm6lg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004149377593"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "240"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uUD3x0s2iprD2+18ydEQGiEbgF0PHz7cVR58DZpGIsw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 11:20:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"X9yM8yf2vHvCQs35Y5FowW9S17Xi7vlA9d5gbnJ/i2Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X9yM8yf2vHvCQs35Y5FowW9S17Xi7vlA9d5gbnJ/i2Y="
+        }
+      ]
+    },
+    {
+      "Route": "webclient.html",
+      "AssetFile": "D:\\dev\\Advanced\\wwwroot\\webclient.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X9yM8yf2vHvCQs35Y5FowW9S17Xi7vlA9d5gbnJ/i2Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 11:20:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X9yM8yf2vHvCQs35Y5FowW9S17Xi7vlA9d5gbnJ/i2Y="
+        }
+      ]
+    },
+    {
+      "Route": "webclient.html.gz",
+      "AssetFile": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\gwcpklv45s-pqybvgm6lg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "240"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uUD3x0s2iprD2+18ydEQGiEbgF0PHz7cVR58DZpGIsw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 11:20:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uUD3x0s2iprD2+18ydEQGiEbgF0PHz7cVR58DZpGIsw="
+        }
+      ]
+    },
+    {
+      "Route": "webclient.js",
+      "AssetFile": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\pszzqbmmha-e4luh4afse.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001253132832"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "797"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U23pKAeOyoWDDk1PoWAMalHCF0AXhE50xRCDM9oJFMY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 14:00:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kpgrKAZ/nYysJl/SHPTiTE3ZyWKhP15eDva0odYmrh8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kpgrKAZ/nYysJl/SHPTiTE3ZyWKhP15eDva0odYmrh8="
+        }
+      ]
+    },
+    {
+      "Route": "webclient.js",
+      "AssetFile": "D:\\dev\\Advanced\\wwwroot\\webclient.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2553"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kpgrKAZ/nYysJl/SHPTiTE3ZyWKhP15eDva0odYmrh8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 14:00:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kpgrKAZ/nYysJl/SHPTiTE3ZyWKhP15eDva0odYmrh8="
+        }
+      ]
+    },
+    {
+      "Route": "webclient.js.gz",
+      "AssetFile": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\pszzqbmmha-e4luh4afse.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "797"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U23pKAeOyoWDDk1PoWAMalHCF0AXhE50xRCDM9oJFMY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 14:00:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U23pKAeOyoWDDk1PoWAMalHCF0AXhE50xRCDM9oJFMY="
+        }
+      ]
+    },
+    {
+      "Route": "webclient.pqybvgm6lg.html",
+      "AssetFile": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\gwcpklv45s-pqybvgm6lg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004149377593"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "240"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uUD3x0s2iprD2+18ydEQGiEbgF0PHz7cVR58DZpGIsw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 11:20:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"X9yM8yf2vHvCQs35Y5FowW9S17Xi7vlA9d5gbnJ/i2Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pqybvgm6lg"
+        },
+        {
+          "Name": "label",
+          "Value": "webclient.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X9yM8yf2vHvCQs35Y5FowW9S17Xi7vlA9d5gbnJ/i2Y="
+        }
+      ]
+    },
+    {
+      "Route": "webclient.pqybvgm6lg.html",
+      "AssetFile": "D:\\dev\\Advanced\\wwwroot\\webclient.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X9yM8yf2vHvCQs35Y5FowW9S17Xi7vlA9d5gbnJ/i2Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 11:20:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pqybvgm6lg"
+        },
+        {
+          "Name": "label",
+          "Value": "webclient.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X9yM8yf2vHvCQs35Y5FowW9S17Xi7vlA9d5gbnJ/i2Y="
+        }
+      ]
+    },
+    {
+      "Route": "webclient.pqybvgm6lg.html.gz",
+      "AssetFile": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\gwcpklv45s-pqybvgm6lg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "240"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uUD3x0s2iprD2+18ydEQGiEbgF0PHz7cVR58DZpGIsw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 11:20:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pqybvgm6lg"
+        },
+        {
+          "Name": "label",
+          "Value": "webclient.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uUD3x0s2iprD2+18ydEQGiEbgF0PHz7cVR58DZpGIsw="
         }
       ]
     }

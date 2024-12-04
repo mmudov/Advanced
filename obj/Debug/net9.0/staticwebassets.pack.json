@@ -541,6 +541,14 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
+      "Id": "D:\\dev\\Advanced\\wwwroot\\webclient.html",
+      "PackagePath": "staticwebassets\\webclient.html"
+    },
+    {
+      "Id": "D:\\dev\\Advanced\\wwwroot\\webclient.js",
+      "PackagePath": "staticwebassets\\webclient.js"
+    },
+    {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Advanced.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

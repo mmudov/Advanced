@@ -1,5 +1,47 @@
 [
   {
+    "ContainingType": "Advanced.Controllers.ApiAccountController",
+    "Method": "Login",
+    "RelativePath": "api/account/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "creds",
+        "Type": "Advanced.Controllers.ApiAccountController\u002BCredentials",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Advanced.Controllers.ApiAccountController",
+    "Method": "Logout",
+    "RelativePath": "api/account/logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Advanced.Controllers.ApiAccountController",
+    "Method": "Token",
+    "RelativePath": "api/account/token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "creds",
+        "Type": "Advanced.Controllers.ApiAccountController\u002BCredentials",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Advanced.Controllers.DataController",
     "Method": "GetDepts",
     "RelativePath": "api/departments",

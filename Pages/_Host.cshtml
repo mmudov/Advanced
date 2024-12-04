@@ -2,6 +2,8 @@
 @{
 	Layout = null;
 }
+@model HostModel
+@using Microsoft.AspNetCore.Authorization
 
 <!DOCTYPE html>
 <html>
@@ -21,3 +23,8 @@
 	<!--Components using JavaScript don't work-->
 </body>
 </html>
+
+@functions {
+	[Authorize]
+	public class HostModel : PageModel { }
+}

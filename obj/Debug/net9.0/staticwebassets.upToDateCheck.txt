@@ -17,6 +17,7 @@ D:\dev\Advanced\wwwroot\lib\bootstrap\css\bootstrap.css.map
 D:\dev\Advanced\wwwroot\lib\bootstrap\js\bootstrap.esm.min.js.map
 D:\dev\Advanced\wwwroot\lib\bootstrap\css\bootstrap-grid.min.css.map
 D:\dev\Advanced\wwwroot\lib\bootstrap\js\bootstrap.js.map
+D:\dev\Advanced\wwwroot\webclient.html
 D:\dev\Advanced\wwwroot\lib\bootstrap\css\bootstrap-reboot.rtl.min.css.map
 D:\dev\Advanced\wwwroot\lib\bootstrap\css\bootstrap-utilities.rtl.min.css
 D:\dev\Advanced\wwwroot\lib\bootstrap\css\bootstrap-reboot.min.css.map
@@ -26,6 +27,7 @@ D:\dev\Advanced\wwwroot\lib\bootstrap\css\bootstrap.min.css
 D:\dev\Advanced\wwwroot\lib\bootstrap\css\bootstrap-reboot.css
 D:\dev\Advanced\wwwroot\lib\bootstrap\css\bootstrap.css
 D:\dev\Advanced\wwwroot\lib\bootstrap\js\bootstrap.esm.js
+D:\dev\Advanced\wwwroot\webclient.js
 D:\dev\Advanced\wwwroot\lib\bootstrap\css\bootstrap-grid.css.map
 D:\dev\Advanced\wwwroot\lib\bootstrap\css\bootstrap-grid.rtl.css
 D:\dev\Advanced\wwwroot\lib\bootstrap\css\bootstrap-reboot.rtl.css
@@ -180,3 +182,5 @@ wwwroot\lib\bootstrap\scss\mixins\_utilities.scss
 wwwroot\lib\bootstrap\scss\mixins\_visually-hidden.scss
 wwwroot\lib\bootstrap\scss\utilities\_api.scss
 wwwroot\lib\bootstrap\scss\vendor\_rfs.scss
+wwwroot\webclient.html
+wwwroot\webclient.js
