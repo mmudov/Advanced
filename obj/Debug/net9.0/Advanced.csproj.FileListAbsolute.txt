@@ -222,4 +222,5 @@ D:\dev\Advanced\bin\Debug\net9.0\BlazorWebAssembly.dll
 D:\dev\Advanced\bin\Debug\net9.0\DataModel.dll
 D:\dev\Advanced\bin\Debug\net9.0\DataModel.pdb
 D:\dev\Advanced\bin\Debug\net9.0\BlazorWebAssembly.pdb
+D:\dev\Advanced\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 D:\dev\Advanced\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
