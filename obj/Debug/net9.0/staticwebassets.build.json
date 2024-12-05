@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MFwyxYlx/0nDhuMCYRIfGnNiaNeqb/jqEhLmlVtF8e4=",
+  "Hash": "ZlLiwgAm+FUrIFophchVvYe/a12fYVYGhUL5Ebs2ZZ8=",
   "Source": "Advanced",
   "BasePath": "_content/Advanced",
   "Mode": "Default",
@@ -246,12 +246,12 @@
       "OriginalItemSpec": "D:\\dev\\Advanced\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\8ea9rh1dbl-ospdjqsnxy.gz",
+      "Identity": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\8ea9rh1dbl-g59zuhtsog.gz",
       "SourceId": "Advanced",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Advanced",
-      "RelativePath": "interop#[.{fingerprint=ospdjqsnxy}]?.js.gz",
+      "RelativePath": "interop#[.{fingerprint=g59zuhtsog}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -260,8 +260,8 @@
       "RelatedAsset": "D:\\dev\\Advanced\\wwwroot\\interop.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "lprviv5ekn",
-      "Integrity": "CZwgBCh5Q4R7RRbPIKnMM37Ojr1Ca0LvAbnA4CEz+as=",
+      "Fingerprint": "b2bq79dm7u",
+      "Integrity": "fcrtEvNmghrjp5XNZbqkkPv9NQOufG2hG1DmgEWJnB0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\dev\\Advanced\\wwwroot\\interop.js"
@@ -1121,8 +1121,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ospdjqsnxy",
-      "Integrity": "KCEkrZhttJyyT2QhYpjpG/uZrhF7UswY8sdrhSimTwU=",
+      "Fingerprint": "g59zuhtsog",
+      "Integrity": "FKsKOx8Ap2U2FXTH0qhPcZv9Uz4TAFZ5wtP+IOJDSGU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\interop.js"
@@ -15250,13 +15250,13 @@
       ]
     },
     {
-      "Route": "interop.js",
-      "AssetFile": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\8ea9rh1dbl-ospdjqsnxy.gz",
+      "Route": "interop.g59zuhtsog.js",
+      "AssetFile": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\8ea9rh1dbl-g59zuhtsog.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002427184466"
+          "Quality": "0.002392344498"
         }
       ],
       "ResponseHeaders": [
@@ -15266,19 +15266,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "411"
+          "Value": "417"
         },
         {
           "Name": "ETag",
-          "Value": "\"CZwgBCh5Q4R7RRbPIKnMM37Ojr1Ca0LvAbnA4CEz+as=\""
+          "Value": "\"fcrtEvNmghrjp5XNZbqkkPv9NQOufG2hG1DmgEWJnB0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 14:41:43 GMT"
+          "Value": "Thu, 05 Dec 2024 08:51:14 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -15294,18 +15294,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"KCEkrZhttJyyT2QhYpjpG/uZrhF7UswY8sdrhSimTwU=\""
+          "Value": "W/\"FKsKOx8Ap2U2FXTH0qhPcZv9Uz4TAFZ5wtP+IOJDSGU=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "g59zuhtsog"
+        },
+        {
+          "Name": "label",
+          "Value": "interop.js"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-KCEkrZhttJyyT2QhYpjpG/uZrhF7UswY8sdrhSimTwU="
+          "Value": "sha256-FKsKOx8Ap2U2FXTH0qhPcZv9Uz4TAFZ5wtP+IOJDSGU="
         }
       ]
     },
     {
-      "Route": "interop.js",
+      "Route": "interop.g59zuhtsog.js",
       "AssetFile": "D:\\dev\\Advanced\\wwwroot\\interop.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -15315,7 +15323,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "876"
+          "Value": "887"
         },
         {
           "Name": "Content-Type",
@@ -15323,121 +15331,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KCEkrZhttJyyT2QhYpjpG/uZrhF7UswY8sdrhSimTwU=\""
+          "Value": "\"FKsKOx8Ap2U2FXTH0qhPcZv9Uz4TAFZ5wtP+IOJDSGU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 14:41:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-KCEkrZhttJyyT2QhYpjpG/uZrhF7UswY8sdrhSimTwU="
-        }
-      ]
-    },
-    {
-      "Route": "interop.js.gz",
-      "AssetFile": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\8ea9rh1dbl-ospdjqsnxy.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "411"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"CZwgBCh5Q4R7RRbPIKnMM37Ojr1Ca0LvAbnA4CEz+as=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 14:41:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-CZwgBCh5Q4R7RRbPIKnMM37Ojr1Ca0LvAbnA4CEz+as="
-        }
-      ]
-    },
-    {
-      "Route": "interop.ospdjqsnxy.js",
-      "AssetFile": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\8ea9rh1dbl-ospdjqsnxy.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002427184466"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "411"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"CZwgBCh5Q4R7RRbPIKnMM37Ojr1Ca0LvAbnA4CEz+as=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 14:41:43 GMT"
+          "Value": "Thu, 05 Dec 2024 08:51:14 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"KCEkrZhttJyyT2QhYpjpG/uZrhF7UswY8sdrhSimTwU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ospdjqsnxy"
+          "Value": "g59zuhtsog"
         },
         {
           "Name": "label",
@@ -15445,13 +15353,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KCEkrZhttJyyT2QhYpjpG/uZrhF7UswY8sdrhSimTwU="
+          "Value": "sha256-FKsKOx8Ap2U2FXTH0qhPcZv9Uz4TAFZ5wtP+IOJDSGU="
         }
       ]
     },
     {
-      "Route": "interop.ospdjqsnxy.js",
-      "AssetFile": "D:\\dev\\Advanced\\wwwroot\\interop.js",
+      "Route": "interop.g59zuhtsog.js.gz",
+      "AssetFile": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\8ea9rh1dbl-g59zuhtsog.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15460,7 +15368,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "876"
+          "Value": "417"
         },
         {
           "Name": "Content-Type",
@@ -15468,56 +15376,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KCEkrZhttJyyT2QhYpjpG/uZrhF7UswY8sdrhSimTwU=\""
+          "Value": "\"fcrtEvNmghrjp5XNZbqkkPv9NQOufG2hG1DmgEWJnB0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 14:41:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ospdjqsnxy"
-        },
-        {
-          "Name": "label",
-          "Value": "interop.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-KCEkrZhttJyyT2QhYpjpG/uZrhF7UswY8sdrhSimTwU="
-        }
-      ]
-    },
-    {
-      "Route": "interop.ospdjqsnxy.js.gz",
-      "AssetFile": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\8ea9rh1dbl-ospdjqsnxy.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "411"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"CZwgBCh5Q4R7RRbPIKnMM37Ojr1Ca0LvAbnA4CEz+as=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 14:41:43 GMT"
+          "Value": "Thu, 05 Dec 2024 08:51:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15535,7 +15398,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ospdjqsnxy"
+          "Value": "g59zuhtsog"
         },
         {
           "Name": "label",
@@ -15543,7 +15406,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CZwgBCh5Q4R7RRbPIKnMM37Ojr1Ca0LvAbnA4CEz+as="
+          "Value": "sha256-fcrtEvNmghrjp5XNZbqkkPv9NQOufG2hG1DmgEWJnB0="
+        }
+      ]
+    },
+    {
+      "Route": "interop.js",
+      "AssetFile": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\8ea9rh1dbl-g59zuhtsog.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002392344498"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "417"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fcrtEvNmghrjp5XNZbqkkPv9NQOufG2hG1DmgEWJnB0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 08:51:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"FKsKOx8Ap2U2FXTH0qhPcZv9Uz4TAFZ5wtP+IOJDSGU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FKsKOx8Ap2U2FXTH0qhPcZv9Uz4TAFZ5wtP+IOJDSGU="
+        }
+      ]
+    },
+    {
+      "Route": "interop.js",
+      "AssetFile": "D:\\dev\\Advanced\\wwwroot\\interop.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FKsKOx8Ap2U2FXTH0qhPcZv9Uz4TAFZ5wtP+IOJDSGU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 08:51:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FKsKOx8Ap2U2FXTH0qhPcZv9Uz4TAFZ5wtP+IOJDSGU="
+        }
+      ]
+    },
+    {
+      "Route": "interop.js.gz",
+      "AssetFile": "D:\\dev\\Advanced\\obj\\Debug\\net9.0\\compressed\\8ea9rh1dbl-g59zuhtsog.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fcrtEvNmghrjp5XNZbqkkPv9NQOufG2hG1DmgEWJnB0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 08:51:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fcrtEvNmghrjp5XNZbqkkPv9NQOufG2hG1DmgEWJnB0="
         }
       ]
     },

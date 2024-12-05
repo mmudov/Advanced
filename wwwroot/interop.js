@@ -1,12 +1,12 @@
-function addTableRows(colCount) {
+function addTableRows(colCount, elem) {
     //let elem = document.querySelector("tbody");
     let row = document.createElement("tr");
     //elem.append(row);
     elem.parentNode.insertBefore(row, elem);
-
     for (let i = 0; i < colCount; i++) {
         let cell = document.createElement("td");
-        cell.innerText = "New Elements" row.append(cell);
+        cell.innerText = "New Elements"
+        row.append(cell);
     }
 }
 
@@ -18,5 +18,4 @@ function createToggleButton(toggleServiceRef) {
     sibling.parentNode.insertBefore(button, sibling.nextSibling);
     //button.onclick = () => DotNet.invokeMethodAsync("Advanced", "ToggleEnabled");
     button.onclick = () => toggleServiceRef.invokeMethodAsync("ToggleComponents");
-
 }

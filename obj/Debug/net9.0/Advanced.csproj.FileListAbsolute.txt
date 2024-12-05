@@ -226,4 +226,4 @@ D:\dev\Advanced\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 D:\dev\Advanced\obj\Debug\net9.0\compressed\gwcpklv45s-pqybvgm6lg.gz
 D:\dev\Advanced\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\dev\Advanced\obj\Debug\net9.0\compressed\pszzqbmmha-e4luh4afse.gz
-D:\dev\Advanced\obj\Debug\net9.0\compressed\8ea9rh1dbl-ospdjqsnxy.gz
+D:\dev\Advanced\obj\Debug\net9.0\compressed\8ea9rh1dbl-g59zuhtsog.gz
