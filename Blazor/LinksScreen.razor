@@ -1,0 +1,91 @@
+﻿@inherits LayoutComponentBase
+@using Advanced.Services
+@page "/links"
+
+<div class="bg-primary text-center text-white p-2">
+	<h4>Links Screen</h4>
+</div>
+
+<table class="table table-striped table-bordered">
+	<tbody>
+		<tr>
+			<th>Controllers</th>
+			<td>
+				<div>
+					<NavLink class="link" href="/controllers">http://localhost:5000/controllers</NavLink>
+				</div>
+				<div>
+					<NavLink class="link" href="/controllers/home/toggle">http://localhost:5000/controllers/home/toggle</NavLink>
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<th>Pages</th>
+			<td>
+				<div>
+					<NavLink class="link" href="/pages">http://localhost:5000/pages</NavLink>
+				</div>
+				<div>
+					<NavLink class="link" href="/pages/blazor">http://localhost:5000/pages/blazor</NavLink>
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<th>Forms</th>
+			<td>
+				<div>
+					<NavLink class="link" href="/forms">http://localhost:5000/forms</NavLink>
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<th>API</th>
+			<td>
+				<div>
+					<NavLink class="link" href="api/people">http://localhost:5000/api/people</NavLink>
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<th>Webassembly</th>
+			<td>
+				<div>
+					<NavLink class="link" href="/webassembly">http://localhost:5000/webassembly</NavLink>
+				</div>
+				<div>
+					<NavLink class="link" href="/webassembly/forms">http://localhost:5000/webassembly/forms</NavLink>
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<th>Users</th>
+			<td>
+				<div>
+					<NavLink class="link" href="/users/list">http://localhost:5000/users/list</NavLink>
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<th>Rroles</th>
+			<td>
+				<div>
+					<NavLink class="link" href="/roles/list">http://localhost:5000/roles/list</NavLink>
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<th>Account</th>
+			<td>
+				<div>
+					<NavLink class="link" href="/account/details">http://localhost:5000/account/details</NavLink>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div>
+	<h6>Copy this link <em>http://localhost:5000/webclient.html</em>, paste it into a new browser tab, then click the Log Out button</h6>
+</div>
+<div><!--<div class="text-center p-2">-->
+	<NavLink class="btn btn-info" href="/account/logout">Log Out</NavLink>
+</div>

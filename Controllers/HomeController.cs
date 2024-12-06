@@ -2,9 +2,11 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Advanced.Services;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Advanced.Controllers
 {
+    [Authorize]
     public class HomeController : Controller
     {
         private DataContext context;
