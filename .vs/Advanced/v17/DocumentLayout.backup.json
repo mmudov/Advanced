@@ -3,16 +3,14 @@
   "WorkspaceRootPath": "D:\\dev\\Advanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|d:\\dev\\advanced\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|d:\\dev\\advanced\\blazor\\navlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|solutionrelative:blazor\\navlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ADC2759C-F19D-45A5-9E96-DEFE57315C3D}|..\\BlazorWebAssembly\\BlazorWebAssembly.csproj|d:\\dev\\blazorwebassembly\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|d:\\dev\\advanced\\blazor\\linksscreen.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|solutionrelative:blazor\\linksscreen.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC2759C-F19D-45A5-9E96-DEFE57315C3D}|..\\BlazorWebAssembly\\BlazorWebAssembly.csproj|d:\\dev\\blazorwebassembly\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,12 +20,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
@@ -37,42 +31,46 @@
               "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NavLayout.razor",
-              "DocumentMoniker": "D:\\dev\\Advanced\\Blazor\\NavLayout.razor",
-              "RelativeDocumentMoniker": "Blazor\\NavLayout.razor",
-              "ToolTip": "D:\\dev\\Advanced\\Blazor\\NavLayout.razor",
-              "RelativeToolTip": "Blazor\\NavLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-06T11:56:26.268Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "LinksScreen.razor",
               "DocumentMoniker": "D:\\dev\\Advanced\\Blazor\\LinksScreen.razor",
               "RelativeDocumentMoniker": "Blazor\\LinksScreen.razor",
               "ToolTip": "D:\\dev\\Advanced\\Blazor\\LinksScreen.razor",
               "RelativeToolTip": "Blazor\\LinksScreen.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADoAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-06T11:50:56.609Z",
+              "WhenOpened": "2024-12-08T11:19:46.352Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\dev\\Advanced\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\dev\\Advanced\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T06:40:52.613Z",
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\dev\\BlazorWebAssembly\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "..\\BlazorWebAssembly\\Pages\\Weather.razor",
+              "ToolTip": "D:\\dev\\BlazorWebAssembly\\Pages\\Weather.razor*",
+              "RelativeToolTip": "..\\BlazorWebAssembly\\Pages\\Weather.razor*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T11:16:53.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\dev\\BlazorWebAssembly\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "..\\BlazorWebAssembly\\Pages\\Counter.razor",
+              "ToolTip": "D:\\dev\\BlazorWebAssembly\\Pages\\Counter.razor",
+              "RelativeToolTip": "..\\BlazorWebAssembly\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T11:16:36.754Z",
               "EditorCaption": ""
             }
           ]
