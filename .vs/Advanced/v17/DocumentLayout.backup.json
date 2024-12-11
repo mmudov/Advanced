@@ -3,14 +3,44 @@
   "WorkspaceRootPath": "D:\\dev\\Advanced\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|d:\\dev\\advanced\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|d:\\dev\\advanced\\pages\\users\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|solutionrelative:pages\\users\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|d:\\dev\\advanced\\pages\\roles\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|solutionrelative:pages\\roles\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|d:\\dev\\advanced\\pages\\account\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|solutionrelative:pages\\account\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC2759C-F19D-45A5-9E96-DEFE57315C3D}|..\\BlazorWebAssembly\\BlazorWebAssembly.csproj|d:\\dev\\blazorwebassembly\\pages\\list.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ADC2759C-F19D-45A5-9E96-DEFE57315C3D}|..\\BlazorWebAssembly\\BlazorWebAssembly.csproj|d:\\dev\\blazorwebassembly\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|d:\\dev\\advanced\\blazor\\linksscreen.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|solutionrelative:blazor\\linksscreen.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ADC2759C-F19D-45A5-9E96-DEFE57315C3D}|..\\BlazorWebAssembly\\BlazorWebAssembly.csproj|d:\\dev\\blazorwebassembly\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADC2759C-F19D-45A5-9E96-DEFE57315C3D}|..\\BlazorWebAssembly\\BlazorWebAssembly.csproj|d:\\dev\\blazorwebassembly\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ADC2759C-F19D-45A5-9E96-DEFE57315C3D}|..\\BlazorWebAssembly\\BlazorWebAssembly.csproj|d:\\dev\\blazorwebassembly\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|d:\\dev\\advanced\\blazor\\forms\\list.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|solutionrelative:blazor\\forms\\list.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|d:\\dev\\advanced\\pages\\blazor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|solutionrelative:pages\\blazor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|d:\\dev\\advanced\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B145BCA8-1D65-4DC2-A5E0-A6A5AE4E4179}|Advanced.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,8 +50,138 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 12,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\dev\\Advanced\\Pages\\Users\\List.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Users\\List.cshtml",
+              "ToolTip": "D:\\dev\\Advanced\\Pages\\Users\\List.cshtml",
+              "RelativeToolTip": "Pages\\Users\\List.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T11:54:47.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\dev\\Advanced\\Pages\\Roles\\List.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Roles\\List.cshtml",
+              "ToolTip": "D:\\dev\\Advanced\\Pages\\Roles\\List.cshtml",
+              "RelativeToolTip": "Pages\\Roles\\List.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T11:54:37.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\dev\\Advanced\\Pages\\Account\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Account\\Details.cshtml",
+              "ToolTip": "D:\\dev\\Advanced\\Pages\\Account\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Account\\Details.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T11:54:20.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "List.razor",
+              "DocumentMoniker": "D:\\dev\\BlazorWebAssembly\\Pages\\List.razor",
+              "RelativeDocumentMoniker": "..\\BlazorWebAssembly\\Pages\\List.razor",
+              "ToolTip": "D:\\dev\\BlazorWebAssembly\\Pages\\List.razor",
+              "RelativeToolTip": "..\\BlazorWebAssembly\\Pages\\List.razor",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T11:53:52.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\dev\\BlazorWebAssembly\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "..\\BlazorWebAssembly\\Pages\\Weather.razor",
+              "ToolTip": "D:\\dev\\BlazorWebAssembly\\Pages\\Weather.razor",
+              "RelativeToolTip": "..\\BlazorWebAssembly\\Pages\\Weather.razor",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T11:53:30.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\dev\\BlazorWebAssembly\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "..\\BlazorWebAssembly\\Pages\\Counter.razor",
+              "ToolTip": "D:\\dev\\BlazorWebAssembly\\Pages\\Counter.razor",
+              "RelativeToolTip": "..\\BlazorWebAssembly\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T11:53:23.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\dev\\BlazorWebAssembly\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "..\\BlazorWebAssembly\\Pages\\Home.razor",
+              "ToolTip": "D:\\dev\\BlazorWebAssembly\\Pages\\Home.razor",
+              "RelativeToolTip": "..\\BlazorWebAssembly\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T11:53:13.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "List.razor",
+              "DocumentMoniker": "D:\\dev\\Advanced\\Blazor\\Forms\\List.razor",
+              "RelativeDocumentMoniker": "Blazor\\Forms\\List.razor",
+              "ToolTip": "D:\\dev\\Advanced\\Blazor\\Forms\\List.razor",
+              "RelativeToolTip": "Blazor\\Forms\\List.razor",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T11:52:22.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Blazor.cshtml",
+              "DocumentMoniker": "D:\\dev\\Advanced\\Pages\\Blazor.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Blazor.cshtml",
+              "ToolTip": "D:\\dev\\Advanced\\Pages\\Blazor.cshtml",
+              "RelativeToolTip": "Pages\\Blazor.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAD8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T11:52:00.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\dev\\Advanced\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "D:\\dev\\Advanced\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T11:50:30.913Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
@@ -31,47 +191,21 @@
               "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LinksScreen.razor",
-              "DocumentMoniker": "D:\\dev\\Advanced\\Blazor\\LinksScreen.razor",
-              "RelativeDocumentMoniker": "Blazor\\LinksScreen.razor",
-              "ToolTip": "D:\\dev\\Advanced\\Blazor\\LinksScreen.razor",
-              "RelativeToolTip": "Blazor\\LinksScreen.razor",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAADoAAABgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T11:19:46.352Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Weather.razor",
-              "DocumentMoniker": "D:\\dev\\BlazorWebAssembly\\Pages\\Weather.razor",
-              "RelativeDocumentMoniker": "..\\BlazorWebAssembly\\Pages\\Weather.razor",
-              "ToolTip": "D:\\dev\\BlazorWebAssembly\\Pages\\Weather.razor*",
-              "RelativeToolTip": "..\\BlazorWebAssembly\\Pages\\Weather.razor*",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\dev\\Advanced\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\dev\\Advanced\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T11:16:53.348Z",
+              "WhenOpened": "2024-12-11T11:39:58.956Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Counter.razor",
-              "DocumentMoniker": "D:\\dev\\BlazorWebAssembly\\Pages\\Counter.razor",
-              "RelativeDocumentMoniker": "..\\BlazorWebAssembly\\Pages\\Counter.razor",
-              "ToolTip": "D:\\dev\\BlazorWebAssembly\\Pages\\Counter.razor",
-              "RelativeToolTip": "..\\BlazorWebAssembly\\Pages\\Counter.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T11:16:36.754Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         },
@@ -82,6 +216,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Bookmark",
